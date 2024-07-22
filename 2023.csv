@@ -1,0 +1,904 @@
+Offense Case Type,Offense Date,Offense Time,Charges Description,Offense Street Name,Offense Cross Street,Case Closed,Agency,Officer Code,RACE,Defendant Gender
+NT,2022-10-01,3:03:00,Public Intoxication,409 EAST 6TH STREET,,ACT,Austin Police Department,8126,Black,Male
+NT,2022-10-01,14:49:00,Public Intoxication,201 SOUTH CONGRESS AVENUE,,ACT,Austin Police Department,8423,White,Female
+NT,2022-10-02,3:58:00,Public Intoxication,EAST 7TH STREET AND NECHES STREET,,ACT,Austin Police Department,8944,Black,Female
+NT,2022-10-03,2:20:00,Public Intoxication,EAST 6TH STREET AND TRINITY STREET,,IN,Austin Police Department,8345,White,Female
+NT,2022-10-03,12:00:00,Public Intoxication,319 EAST 7TH STREET,,TERM,Austin Police Department,8400,White,Male
+NT,2022-10-05,7:15:00,Disorderly Conduct-Indecent Exposure #,100 WEST 6TH STREET,,IN,Austin Police Department,4988,White,Male
+NT,2022-10-05,7:20:00,Possession Of Drug Paraphernalia,600 BLOCK WALLER CREEK,,IN,Austin Police Department,3968,Other,Male
+NT,2022-10-05,7:20:00,Possession Of Drug Paraphernalia,600 WALLER STREET,,IN,Austin Police Department,3968,Black,Female
+NT,2022-10-06,22:46:00,Disorderly Conduct-Indecent Exposure #,EAST 6TH STREET AND BRAZOS STREET,,TERM,Austin Police Department,6136,White,Female
+NT,2022-10-07,0:18:00,Public Intoxication,75 RAINEY STREET,,TERM,Austin Police Department,8888,White,Male
+NT,2022-10-07,11:54:00,Public Intoxication,1631 EAST 2ND STREET,,ACT,Austin Police Department,8282,White,Male
+NT,2022-10-07,19:35:00,Public Intoxication,401 EAST 6TH STREET,,TERM,Austin Police Department,7870,Black,Male
+OR,2022-10-08,3:27:00,Human Waste,600 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8345,Black,Male
+NT,2022-10-08,12:00:00,Public Intoxication,422 GUADALUPE STREET,,IN,Austin Police Department,3900,Unknown,Male
+NT,2022-10-09,1:31:00,Public Intoxication,408 EAST 6TH STREET,,TERM,Austin Police Department,8411,White,Male
+NT,2022-10-10,6:30:00,Public Intoxication,300 EAST 4TH STREET,,DELC,Austin Police Department,3968,Other,Male
+NT,2022-10-10,6:30:00,Possession Of Drug Paraphernalia,300 EAST 4TH STREET,,IN,Austin Police Department,3968,Other,Male
+NT,2022-10-10,12:00:00,Public Intoxication,400 BLOCK 6TH STREET,,TERM,Austin Police Department,7216,Other,Male
+NT,2022-10-10,16:43:00,Public Intoxication,701 SOUTH CONGRESS AVENUE,,IN,Austin Police Department,9098,White,Female
+NT,2022-10-10,20:26:00,Public Intoxication,600 BLOCK RED RIVER STREET,,ACT,Austin Police Department,9098,White,Male
+NT,2022-10-10,22:39:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8103,White,Male
+TR,2022-10-11,2:13:00,Pedestrian Walking Against Light,EAST 6TH STREET AND TRINITY STREET,,TERM,Austin Police Department,5660,Other,Male
+TR,2022-10-11,2:37:00,Pedestrian On Roadway,615 SAN JACINTO BOULEVARD,,ACT,Austin Police Department,7796,White,Male
+OR,2022-10-11,15:12:00,"Sitting, Lying Down, Sleeping Outdoors",505 EAST 7TH STREET,,IN,Austin Police Department,9098,Black,Male
+TR,2022-10-11,16:47:00,Pedestrian Crossing Midblock,NECHES STREET BETWEEN EAST 6TH STREET AND EAST 7TH STREET,,TERM,Austin Police Department,9097,Black,Male
+NT,2022-10-12,9:49:00,Possession Of Drug Paraphernalia,600 WALLER CREEK,,ACT,Austin Police Department,5666,WHITE,Female
+NT,2022-10-13,12:37:00,Possession Of Drug Paraphernalia,6TH STREET AND BRAZOS STREET,,ACT,Austin Police Department,8428,White,Male
+OR,2022-10-13,19:14:00,Manifesting - Drugs,400 BLOCK EAST 6TH STREET,,IN,Austin Police Department,9098,Black,Male
+NT,2022-10-13,23:33:00,Public Intoxication,1901 SAN ANTONIO,,TERM,Austin Police Department,9074,White,Male
+NT,2022-10-15,2:18:00,Disorderly Conduct - Fighting,600 BLOCK SAN JACINTO,,ACT,Austin Police Department,8888,White,Male
+NT,2022-10-15,2:31:00,Disorderly Conduct - Fighting,600 SAN JACINTO ST,,TERM,Austin Police Department,8888,WHITE,Male
+NT,2022-10-15,14:55:00,Public Intoxication,917 LAMAR BOULEVARD,,IN,Austin Police Department,7705,Other,Male
+NT,2022-10-16,3:16:00,Public Intoxication,701 EAST 11TH STREET,,TERM,Austin Police Department,7765,White,Male
+NT,2022-10-16,19:05:00,Failure To Identify - Refuse,219 EAST 6TH STREET,,TERM,Austin Police Department,7870,Black,Female
+NT,2022-10-18,0:07:00,Public Intoxication,200 BLOCK WEST 4TH STREET,,TERM,Austin Police Department,8888,White,Male
+NT,2022-10-20,3:28:00,Public Intoxication,300 BLOCK EAST 8TH STREET,,TERM,Austin Police Department,9254,White,Female
+NT,2022-10-20,9:25:00,Public Intoxication,NECHES STREET AND EAST 6TH STREET,,ACT,Austin Police Department,8289,White,Female
+OR,2022-10-20,13:59:00,Littering,100 SOUTH IH 35,,IN,Austin Police Department,5193,White,Female
+NT,2022-10-20,21:17:00,Public Intoxication,700 BLOCK WEST 6TH STREET,,TERM,Austin Police Department,7785,White,Male
+NT,2022-10-21,2:39:00,Disorderly Conduct - Fighting,406 EAST 6TH STREET,,IN,Austin Police Department,7796,Black,Male
+OR,2022-10-21,11:45:00,"Sitting, Lying Down, Sleeping Outdoors",200 BLOCK EAST 6TH STREET,,IN,Austin Police Department,5193,White,Male
+NT,2022-10-22,22:49:00,Public Intoxication,1401 TRINITY STREET,,ACT,Austin Police Department,9074,White,Male
+NT,2022-10-23,4:07:00,Public Intoxication,500 BLOCK EAST 7TH STREET,,TERM,Austin Police Department,5371,Black,Male
+NT,2022-10-23,4:37:00,Public Intoxication,617 EAST 7TH STREET,,ACT,Austin Police Department,8205,Black,Female
+OR,2022-10-24,0:06:00,Littering,500 NECHES STREET,,ACT,Austin Police Department,8428,Black,Male
+OR,2022-10-24,0:06:00,Manifesting - Drugs,500 BLOCK NECHES STREET,,TERM,Austin Police Department,8428,Black,Female
+OR,2022-10-24,0:06:00,Glass Container Prohibited in PRA,500 BLOCK NECHES,,ACT,Austin Police Department,8428,Black,Female
+OR,2022-10-24,2:08:00,Pedestrian In Roadway/City Ordinance,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,7804,White,Male
+NT,2022-10-24,2:08:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,7804,White,Male
+OR,2022-10-24,10:20:00,Manifesting - Drugs,500 NECHES STREET,,ACT,Austin Police Department,8428,Black,Male
+NT,2022-10-24,12:00:00,Public Intoxication,700 BLOCK WEST 6TH STREET,,TERM,Austin Police Department,4821,White,Female
+OR,2022-10-26,4:00:00,Park Curfew Violation,200 NORTH IH 35 SOUTHBOUND,,ACT,Austin Police Department,4988,White,Female
+NT,2022-10-26,17:50:00,Simple Assault By Contact,700 BLOCK EAST 8TH STREET,,IN,Austin Police Department,8066,Black,Male
+NT,2022-10-28,7:18:00,Public Intoxication,115 EAST 6TH STREET,,IN,Austin Police Department,8428,White,Female
+NT,2022-10-28,23:41:00,Public Intoxication,314 EAST 6TH STREET,,TERM,Austin Police Department,4495,White,Male
+OR,2022-10-29,18:20:00,Manifesting - Drugs,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,9097,Black,Male
+TR,2022-10-29,18:20:00,Glass Container Prohibited in PRA,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,9097,Black,Male
+NT,2022-10-30,2:44:00,Disorderly Conduct - Fighting,EAST 6TH STREET AND TRINITY STREET,,TERM,Austin Police Department,8126,White,Male
+NT,2022-10-31,2:00:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,9252,Black,Female
+NT,2022-10-31,2:00:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,9252,White,Female
+NT,2022-10-31,2:06:00,Disorderly Conduct - Fighting,401 EAST 6TH STREET,,TERM,Austin Police Department,9254,Black,Female
+NT,2022-10-31,9:02:00,Possession Of Drug Paraphernalia,400 BLOCK EAST 6TH STREET,,IN,Austin Police Department,8289,Black,Male
+NT,2022-10-31,9:02:00,Possession Of Drug Paraphernalia,400 BLOCK 6TH STREET,,ACT,Austin Police Department,8289,Black,Male
+NT,2022-11-01,2:18:00,Public Intoxication,6TH STREET AND NECHES STREET,,ACT,Austin Police Department,9098,White,Male
+NT,2022-11-01,2:18:00,Simple Assault By Contact,6TH STREET AND NECHES STREET,,ACT,Austin Police Department,9098,Black,Male
+NT,2022-11-03,0:18:00,Public Intoxication,317 EAST 6TH STREET,,TERM,Austin Police Department,8126,Asian,Male
+OR,2022-11-03,9:30:00,"Sitting, Lying Down, Sleeping Outdoors",600 BLOCK CONGRESS AVENUE,,IN,Austin Police Department,5193,Other,Male
+NT,2022-11-04,1:00:00,Possession Of Drug Paraphernalia,400 EAST 6TH STREET,,IN,Austin Police Department,8205,Black,Male
+NT,2022-11-04,12:00:00,Public Intoxication,500 BLOCK BRAZOS STREET,,ACT,Austin Police Department,8149,Black,Male
+NT,2022-11-05,13:25:00,Possession Of Drug Paraphernalia,600 BLOCK BRAZOS STREET,,ACT,Austin Police Department,4556,Black,Male
+NT,2022-11-06,1:43:00,Disorderly Conduct - Fighting,409 EAST 6TH STREET,,ACT,Austin Police Department,7804,Black,Female
+NT,2022-11-06,1:48:00,Public Intoxication,EAST 6TH STREET AND TRINITY STREET,,TERM,Austin Police Department,9100,Other,Male
+NT,2022-11-06,2:01:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,7804,Black,Male
+NT,2022-11-06,7:45:00,Simple Assault By Contact,401 CONGRESS AVENUE,,ACT,Austin Police Department,7887,Black,Female
+NT,2022-11-06,23:31:00,Public Intoxication,700 WEST 6TH STREET,,TERM,Austin Police Department,8205,White,Male
+NT,2022-11-08,22:29:00,Possession Of Drug Paraphernalia,500 EAST 7TH STREET,,ACT,,8674,Unknown,Male
+NT,2022-11-08,22:30:00,Possession Of Drug Paraphernalia,400 EAST 6TH STREET,,ACT,,8674,Black,Male
+NT,2022-11-09,0:44:00,Public Intoxication,611 RED RIVER STREET,,TERM,Austin Police Department,8205,Asian,Male
+NT,2022-11-09,9:24:00,Simple Assault By Contact,304 EAST 7TH STREET,,ACT,Austin Police Department,6174,White,Male
+NT,2022-11-09,10:30:00,Disorderly Conduct-Gesture P.C. 42 01,2222 GUADALUPE STREET,,ACT,Austin Police Department,7285,Other,Male
+NT,2022-11-09,23:44:00,Public Intoxication,EAST 6TH STREET AND CONGRESS AVENUE,,TERM,Austin Police Department,8205,White,Female
+NT,2022-11-10,9:15:00,Possession Of Drug Paraphernalia,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8289,Black or African American,Male
+NT,2022-11-11,1:22:00,Public Intoxication,WEST 8TH STREET AND RIO GRANDE STREET,,TERM,Austin Police Department,7769,White,Male
+NT,2022-11-11,17:45:00,Public Intoxication,401 GUADALUPE STREET,,TERM,Austin Police Department,7870,White,Male
+NT,2022-11-12,1:15:00,Public Intoxication,EAST 6TH STREET AND TRINITY STREET,,TERM,Austin Police Department,8413,White,Male
+NT,2022-11-12,2:08:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,7796,Other,Male
+NT,2022-11-12,2:25:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,9254,White,Male
+TR,2022-11-12,23:40:00,Misrepresentation Of Age By Minor,400 6TH STREET,,TERM,Austin Police Department,8103,White,Male
+NT,2022-11-12,23:40:00,Possess Fictitious Document Under 21,400 6TH STREET,,TERM,Austin Police Department,8103,WHITE,Male
+NT,2022-11-12,23:44:00,Possess Fictitious Document Under 21,403 EAST 6TH STREET,,TERM,Austin Police Department,8126,Asian,Female
+NT,2022-11-12,23:51:00,Possess Fictitious Document Under 21,403 E 6 ST,,TERM,Austin Police Department,8103,WHITE,Female
+NT,2022-11-12,23:51:00,Misrepresentation Of Age By Minor,403 E 6 ST,,TERM,Austin Police Department,8103,WHITE,Female
+NT,2022-11-13,0:04:00,Possess Fictitious Document Under 21,,,TERM,Austin Police Department,9254,White,Male
+NT,2022-11-13,0:07:00,Possess Fictitious Document Under 21,403  E 6TH ST,,TERM,Austin Police Department,8103,WHITE,Female
+NT,2022-11-13,0:10:00,Possess Fictitious Document Under 21,,,TERM,Austin Police Department,8126,White,Male
+NT,2022-11-13,0:10:00,Misrepresentation Of Age By Minor,,,TERM,Austin Police Department,8126,White,Male
+NT,2022-11-13,0:16:00,Possess Fictitious Document Under 21,403 TRINITY,,TERM,Austin Police Department,8103,WHITE,Male
+NT,2022-11-13,0:20:00,Possess Fictitious Document Under 21,403 TRINITY,,TERM,Austin Police Department,8103,WHITE,Male
+NT,2022-11-13,0:30:00,Possess Fictitious Document Under 21,403 EAST 6TH STREET,,TERM,Austin Police Department,8126,White,Male
+NT,2022-11-13,0:30:00,Possess Fictitious Document Under 21,403 EAST 6TH STREET,,TERM,Austin Police Department,8126,White,Male
+NT,2022-11-13,0:30:00,Possess Fictitious Document Under 21,403 TRINITY,,TERM,Austin Police Department,8103,WHITE,Male
+NT,2022-11-13,0:37:00,Possess Fictitious Document Under 21,403 TRINITY,,TERM,Austin Police Department,8103,WHITE,Female
+NT,2022-11-13,4:30:00,Public Intoxication,1106 WEST 6TH STREET,,ACT,Austin Police Department,9121,White,Male
+TR,2022-11-13,15:36:00,Pedestrian On Roadway,400 BLOCK CONGRESS AVENUE,,TERM,Austin Police Department,7765,Black,Male
+OR,2022-11-13,22:32:00,Human Waste,600 NECHES ST,,TERM,Austin Police Department,3564,White,Male
+NT,2022-11-16,20:52:00,Simple Assault By Contact,2316 GUADALUPE STREET,,IN,Austin Police Department,9057,Black,Male
+NT,2022-11-18,22:29:00,Possession Of Drug Paraphernalia,500 EAST 7TH STREET,,TERM,,8674,Black,Male
+NT,2022-11-19,2:20:00,Simple Assault By Contact,EAST 6TH STREET AND TRINITY STREET,,ACT,Austin Police Department,8413,Black,Male
+NT,2022-11-19,12:00:00,Public Intoxication,217 EAST 6TH STREET,,TERM,Austin Police Department,7780,White,Male
+NT,2022-11-20,1:18:00,Public Intoxication,400 BLOCK OF EAST 6TH STREET,,TERM,Austin Police Department,9254,Other,Male
+NT,2022-11-20,1:32:00,Disorderly Conduct - Fighting,400 EAST 6TH STREET,,ACT,Austin Police Department,8205,Other,Male
+NT,2022-11-20,1:47:00,Disorderly Conduct - Fighting,EAST 6TH STREET AT TRINITY STREET,,IN,Austin Police Department,8425,Black,Male
+NT,2022-11-20,4:29:00,Disorderly Conduct-Indecent Exposure #,101 RED RIVER STREET,,ACT,Austin Police Department,8413,Other,Male
+NT,2022-11-21,0:53:00,Public Intoxication,301 WEST 6TH STREET,,TERM,Austin Police Department,8205,Other,Male
+NT,2022-11-22,2:15:00,Criminal Mischief-Destruction Of Prop,404 E 6TH ST,,TERM,Austin Police Department,7796,BLACK,Male
+TR,2022-11-22,8:00:00,Possession Of Drug Paraphernalia,700 BRAZOS STREET,,TERM,Austin Police Department,6136,White,Female
+NT,2022-11-22,21:54:00,Disorderly Conduct - Fighting,200 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,8201,White,Male
+NT,2022-11-26,1:51:00,Disorderly Conduct - Fighting,6TH STREET AND TRINITY STREET,,ACT,Austin Police Department,8944,White,Female
+NT,2022-11-27,1:05:00,Public Intoxication,EAST 6TH STREET AND SAN JACINTO STREET,,TERM,Austin Police Department,8226,White,Male
+NT,2022-11-27,3:00:00,Disorderly Conduct - Fighting,617 EAST 7TH STREET,,TERM,Austin Police Department,8205,Black,Male
+TR,2022-11-30,12:00:00,Public Intoxication,300 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,8354,Black,Male
+NT,2022-12-01,1:35:00,Public Intoxication,2610 GUADALUPE STREET,,IN,Austin Police Department,4578,White,Male
+OR,2022-12-01,18:08:00,Skates Or Skateboard On Sidewalk,300 W 2ND ST,,TERM,Austin Police Department,7930,WHITE,Male
+TR,2022-12-02,23:30:00,Pedestrian On Roadway,EAST 12TH STREET AT RED RIVER STREET,,ACT,Austin Police Department,9364,White,Male
+NT,2022-12-03,1:40:00,Public Intoxication,402 EAST 6TH STREET,,TERM,Austin Police Department,9239,Black,Male
+NT,2022-12-04,0:24:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,9100,Black,Female
+NT,2022-12-04,1:25:00,Public Intoxication,EAST 6TH STREET AND NECHES STREET,,TERM,Austin Police Department,7785,Other,Male
+NT,2022-12-04,1:25:00,Failure To Identify - Refuse,EAST 6TH STREET AND NECHES STREET,,TERM,Austin Police Department,7785,Other,Male
+NT,2022-12-04,2:00:00,Public Intoxication,600 SAN JACINTO STREET,,TERM,Austin Police Department,8570,Other,Female
+NT,2022-12-04,4:19:00,Public Intoxication,810 RED RIVER STREET,,TERM,Austin Police Department,8126,White,Female
+NT,2022-12-06,0:15:00,Public Intoxication,823 CONGRESS AVENUE,,TERM,Austin Police Department,7804,White,Male
+NT,2022-12-06,16:59:00,Public Intoxication,1100 CESAR CHAVEZ STREET,,IN,Austin Police Department,8371,Other,Male
+NT,2022-12-07,1:20:00,Public Intoxication,75 RAINEY STREET,,TERM,Austin Police Department,9239,White,Male
+NT,2022-12-07,1:33:00,Public Intoxication,EAST 6TH STREET AND RED RIVER STREET,,ACT,Austin Police Department,9100,White,Female
+NT,2022-12-07,22:51:00,Criminal Mischief-Destruction Of Prop,500 BLOCK TRINITY STREET,,ACT,Austin Police Department,8413,Black,Male
+OR,2022-12-08,1:15:00,Urinating in Public Place,EAST 5TH STREET AND TRINITY STREET,,ACT,Austin Police Department,9239,White,Male
+NT,2022-12-11,7:52:00,Theft C - Less Than $100,341 W 3RD ST,,TERM,Austin Police Department,6174,WHITE,Male
+NT,2022-12-11,7:52:00,Misdemeanor Theft C - Less Than $100,341 W 3RD ST,,ACT,Austin Police Department,6174,WHITE,Male
+NT,2022-12-13,0:29:00,Public Intoxication,600 BLOCK RED RIVER,,ACT,Austin Police Department,8413,Other,Male
+NT,2022-12-13,0:58:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,9254,Black,Female
+NT,2022-12-16,2:09:00,Disorderly Conduct - Fighting,600 BLOCK TRINITY STREET,,TERM,,8674,White,Male
+NT,2022-12-17,1:30:00,Public Intoxication,500 EAST 4TH STREET,,ACT,Austin Police Department,8411,White,Female
+NT,2022-12-17,1:46:00,Disregard Order Of A Police Officer,400 BLOCK OF EAST 6TH STREET,,IN,Austin Police Department,9239,Black,Male
+NT,2022-12-17,2:00:00,Public Intoxication,SAN JACINTO BOULEVARD AND EAST 6TH STREET,,ACT,Austin Police Department,8149,Black,Male
+NT,2022-12-18,0:59:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,,8674,Black,Male
+NT,2022-12-19,12:00:00,Public Intoxication,1011 EAST 5TH STREET,,IN,Austin Police Department,4578,White,Male
+NT,2022-12-20,8:51:00,Public Intoxication,900 NORTH IH35 SERVICE ROAD,,TERM,Austin Police Department,8289,Black,Male
+OR,2022-12-24,14:42:00,Manifesting - Drugs,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,9097,Black,Male
+NT,2022-12-26,2:04:00,Disorderly Conduct - Fighting,407 EAST 6TH STREET,,TERM,Austin Police Department,7804,Other,Male
+NT,2022-12-26,7:00:00,Failure To Identify - Refuse,WEST 5TH STREET AND CAMPBELL STREET,,ACT,,9557,Black,Male
+NT,2022-12-28,8:05:00,Simple Assault By Threat-Non Family,111 CONGRESS AVENUE,,IN,Austin Police Department,8428,White,Male
+NT,2022-12-28,8:05:00,Simple Assault By Contact,111 CONGRESS AVENUE,,IN,Austin Police Department,8428,White,Male
+TR,2022-12-29,19:55:00,Pedestrian On Roadway,600 CONGRESS AVENUE,,ACT,Austin Police Department,7765,White,Male
+NT,2022-12-29,22:12:00,Failure To Identify - Refuse,WEST 6TH STREET AND RIO GRANDE STREET,,TERM,Austin Police Department,8425,White,Male
+NT,2022-12-29,22:12:00,Public Intoxication,WEST 6TH STREET AND RIO GRANDE STREET,,TERM,Austin Police Department,8425,White,Male
+NT,2022-12-30,0:56:00,Simple Assault By Contact,217 EAST 6TH STREET,,TERM,Austin Police Department,7796,Black,Female
+NT,2022-12-30,1:00:00,Simple Assault By Contact-Family,E 6TH STREET,,TERM,Austin Police Department,7796,Black,Female
+NT,2022-12-30,1:00:00,Simple Assault By Contact-Family,E 6TH STREET,,TERM,Austin Police Department,7796,Black,Female
+NT,2022-12-31,0:04:00,Public Intoxication,300 BLOCK EAST 6TH STREET,,ACT,,8674,White,Male
+NT,2022-12-31,0:35:00,Disorderly Conduct - Fighting,EAST 6TH STREET AND SAN JACINTO BOULEVARD,,TERM,Austin Police Department,8425,White,Male
+NT,2022-12-31,19:31:00,Disorderly Conduct-Indecent Exposure #,500 CONGRESS AVENUE,,TERM,Austin Police Department,7785,Black,Male
+NT,2022-12-31,21:50:00,Disorderly Conduct - Fighting,314 EAST 6TH STREET,,TERM,Austin Police Department,9252,White,Male
+NT,2022-12-31,23:49:00,Public Intoxication,600 BLOCK NECHES STREET,,ACT,Austin Police Department,8413,Black,Female
+NT,2023-01-01,0:43:00,Public Intoxication,4TH STREET AND CONGRESS AVENUE,,TERM,Austin Police Department,8201,Asian,Male
+NT,2023-01-01,2:23:00,Public Intoxication,700 TRINITY STREET,,TERM,Austin Police Department,8769,Other,Male
+NT,2023-01-03,5:15:00,Disorderly Conduct-Indecent Exposure #,700 BLOCK EAST 7TH STREET,,ACT,Austin Police Department,3968,White,Male
+NT,2023-01-03,23:59:00,Simple Assault By Contact,300 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8289,Black,Male
+NT,2023-01-05,21:51:00,Public Intoxication,2402 GUADALUPE STREET,,ACT,,9676,White,Male
+NT,2023-01-05,21:51:00,Public Intoxication,2402 GUADALUPE ST,,TERM,Austin Police Department,7310,White,Male
+NT,2023-01-06,2:03:00,Simple Assault By Contact,EAST 6TH STREET AND SAN JACINTO BOULEVARD,,IN,Austin Police Department,7796,White,Male
+NT,2023-01-07,0:05:00,Disorderly Conduct - Fighting,400 BLOCK E 6TH STREET,TRINITY ST,TERM,Austin Police Department,9254,White,Female
+NT,2023-01-07,1:11:00,Public Intoxication,TRINITY STREET AND EAST 7TH STREET,,ACT,Austin Police Department,7884,Other,Male
+NT,2023-01-07,1:30:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,9252,Black,Male
+NT,2023-01-07,3:15:00,Public Intoxication,310 EAST 5TH STREET,,TERM,Austin Police Department,7780,White,Male
+NT,2023-01-07,6:41:00,Public Intoxication,422 GUADALUPE STREET,,TERM,Austin Police Department,7705,Black,Male
+NT,2023-01-08,2:40:00,Disorderly Conduct - Fighting,400 BLOCK E 6TH STREET,TRINITY STREET,TERM,Austin Police Department,8413,White,Male
+TR,2023-01-08,19:45:00,Pedestrian On Roadway,600 BLOCK CONGRESS AVENUE,,IN,Austin Police Department,7765,White,Female
+NT,2023-01-08,23:47:00,Public Intoxication,707 EAST CESAR CHAVEZ STREET,,IN,Austin Police Department,8413,Black,Male
+NT,2023-01-09,1:21:00,Failure To Identify - Refuse,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,7769,White,Female
+NT,2023-01-09,1:34:00,Public Intoxication,407 EAST 6TH STREET,,TERM,Austin Police Department,9252,White,Male
+NT,2023-01-09,2:16:00,Disorderly Conduct - Fighting,600 BLOCK NECHES STREET,,ACT,Austin Police Department,5660,Black,Female
+NT,2023-01-09,2:16:00,Disorderly Conduct - Fighting,600 BLOCK NECHES STREET,,ACT,Austin Police Department,8413,Black,Female
+NT,2023-01-09,8:33:00,Possession Of Drug Paraphernalia,400 EAST 6TH STREET,,TERM,Austin Police Department,7451,Black,Male
+NT,2023-01-09,10:30:00,Possession Of Drug Paraphernalia,717 EAST 7TH STREET,,ACT,Austin Police Department,8289,White,Female
+NT,2023-01-09,10:39:00,Possession Of Drug Paraphernalia,717 EAST 7TH STREET,,ACT,Austin Police Department,5193,Black,Male
+TR,2023-01-09,17:34:00,Pedestrian On Roadway,CONGRESS AVENUE AND EAST 4TH STREET,,ACT,Austin Police Department,8226,Black,Female
+NT,2023-01-11,2:12:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,7804,White,Male
+NT,2023-01-11,2:12:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,7804,,Male
+OR,2023-01-11,23:10:00,Pedestrian In Roadway/City Ordinance,EAST 2ND STREET AT BRAZOS STREET,,ACT,Austin Police Department,8944,White,Male
+NT,2023-01-11,23:10:00,Public Intoxication,EAST 2ND STREET AT BRAZOS STREET,,ACT,Austin Police Department,8944,White,Male
+NT,2023-01-14,2:31:00,Public Intoxication,7TH STREET AT CONGRESS AVENUE,,ACT,Austin Police Department,8888,White,Male
+NT,2023-01-15,2:10:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,9239,Black,Male
+NT,2023-01-15,2:14:00,Disorderly Conduct - Fighting,600 BLOCK TRINITY STREET,,ACT,Austin Police Department,8674,Hispanic or Latino,Male
+NT,2023-01-15,2:14:00,Disorderly Conduct - Fighting,600 BLOCK TRINITY STREET,,IN,Austin Police Department,8674,Black,Male
+NT,2023-01-16,21:36:00,Public Intoxication,1814 GUADALUPE STREET,,TERM,Austin Police Department,9557,White,Male
+NT,2023-01-17,11:16:00,Camping - State Law,700 BLOCK 4TH STREET,,ACT,Austin Police Department,4278,Black,Male
+NT,2023-01-20,1:25:00,Disorderly Conduct - Fighting,EAST 6TH STREET AT SAN JACINTO STREET,,ACT,Austin Police Department,8425,White,Male
+NT,2023-01-20,20:31:00,Public Intoxication,1611 WEST 5TH STREET,,ACT,Austin Police Department,9115,White,Male
+NT,2023-01-21,22:50:00,Public Intoxication,408 BRAZOS STREET,,ACT,Austin Police Department,7765,White,Male
+NT,2023-01-22,2:10:00,Public Intoxication,600 BLOCK NECHES STREET,,ACT,Austin Police Department,8674,Black,Male
+OR,2023-01-23,0:01:00,"Sitting, Lying Down, Sleeping Outdoors",200 EAST 6TH STREET,,IN,Austin Police Department,7408,Black,Female
+NT,2023-01-24,13:53:00,Public Intoxication,106 CANYON RIDGE DRIVE,,IN,Austin Police Department,8267,Black,Male
+NT,2023-01-25,0:22:00,Public Intoxication,EAST 5TH STREET AT CONGRESS AVENUE,,TERM,Austin Police Department,7796,Other,Male
+NT,2023-01-26,0:01:00,Public Intoxication,607 TRINITY STREET,,TERM,Austin Police Department,9254,Black,Male
+NT,2023-01-26,0:01:00,Public Intoxication,607 TRINITY STREET,,TERM,Austin Police Department,9254,White,Male
+NT,2023-01-26,0:40:00,Failure To Identify - Refuse,409 EAST 6TH STREET (TOULOUSE BAR),,ACT,Austin Police Department,8413,White,Female
+NT,2023-01-26,5:41:00,Public Intoxication,707 EAST CESAR CHAVEZ STREET,,TERM,Austin Police Department,8289,Black,Male
+NT,2023-01-27,2:35:00,Public Intoxication,500 BLOCK NECHES STREET,,ACT,Austin Police Department,8425,White,Male
+NT,2023-01-28,0:01:00,Public Intoxication,402 EAST 6TH STREET,,ACT,Austin Police Department,8569,White,Male
+NT,2023-01-28,4:20:00,Public Intoxication,LAVACA STREET AT 4TH STREET,,TERM,Austin Police Department,8345,White,Male
+NT,2023-01-30,0:25:00,Public Intoxication,4TH STREET,COLORADO,TERM,Austin Police Department,8201,White,Female
+NT,2023-01-30,0:25:00,Simple Assault By Contact-Non Family,4TH STREET,COLORADO,TERM,Austin Police Department,8201,White,Female
+NT,2023-02-02,20:37:00,Public Intoxication,WEST 26TH STREET AT GUADALUPE STREET,,ACT,Austin Police Department,9651,White,Male
+NT,2023-02-03,1:10:00,Public Intoxication,1320 ART DILLY DRIVE,,ACT,Austin Police Department,8385,White,Female
+NT,2023-02-03,2:15:00,Public Intoxication,EAST 6TH STREET AT TRINITY STREET,,TERM,Austin Police Department,8345,White,Male
+NT,2023-02-06,12:09:00,Possession Of Drug Paraphernalia,500 BRAZOS ST,,ACT,Austin Police Department,5666,W WHITE,Male
+NT,2023-02-06,23:56:00,Gaming - Cards; Dice; Or Balls,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8674,Black,Male
+NT,2023-02-07,14:16:00,Public Intoxication,1012 RIO GRANDE STREET,,TERM,Austin Police Department,7765,White,Male
+NT,2023-02-09,1:51:00,Public Intoxication,EAST 6TH STREET AT TRINITY STREET,,TERM,Austin Police Department,9100,White,Female
+NT,2023-02-09,11:05:00,Public Intoxication,110 E 2ND STREET,,,Austin Police Department,8354,White,Male
+NT,2023-02-09,23:54:00,Public Intoxication,600 BLOCK RIO GRANDE STREET,,ACT,Austin Police Department,8888,White,Male
+NT,2023-02-11,1:31:00,Possession Of Drug Paraphernalia,1621 EAST 6TH STREET,,ACT,Austin Police Department,9579,Black,Male
+NT,2023-02-11,23:00:00,Public Intoxication,309 EAST 6TH STREET (MOONLIGHT),,ACT,Austin Police Department,8345,White,Female
+NT,2023-02-12,22:22:00,Public Intoxication,620 WEST 6TH STREET,,TERM,Austin Police Department,9254,White,Male
+TR,2023-02-13,1:58:00,Pedestrian Walking Against Light,E 6TH ST,,TERM,Austin Police Department,7796,BLACK,Female
+NT,2023-02-13,12:30:00,Possession Of Drug Paraphernalia,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,7451,Black,Female
+NT,2023-02-13,21:49:00,Public Intoxication,94 RAINEY STREET,,ACT,Austin Police Department,8067,White,Male
+NT,2023-02-13,23:30:00,Public Intoxication,517 WEST MARTIN LUTHER KING JR. BOULEVARD,,ACT,Austin Police Department,9592,Unknown,Male
+NT,2023-02-14,0:01:00,Public Intoxication,303 RED RIVER STREET,,TERM,Austin Police Department,8289,White,Male
+NT,2023-02-15,23:57:00,Public Intoxication,300 EAST 6TH STREET,,ACT,Austin Police Department,8425,White,Male
+NT,2023-02-17,0:01:00,Public Intoxication,EAST 7TH STREET AT TRINITY STREET,,TERM,Austin Police Department,9239,Asian,Male
+NT,2023-02-17,22:45:00,Possession Of Drug Paraphernalia,EAST 5TH STREET AT NECHES STREET,,ACT,Austin Police Department,8425,Black,Male
+NT,2023-02-18,2:47:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8888,Black,Male
+NT,2023-02-18,17:45:00,Disorderly Conduct-Indecent Exposure #,100 BLOCK WEST 6TH STREET,,TERM,Austin Police Department,6687,White,Female
+NT,2023-02-18,22:57:00,Disorderly Conduct - Fighting,402 EAST 6TH STREET,,ACT,Austin Police Department,9254,Black,Male
+NT,2023-02-18,23:30:00,Public Intoxication,217 WEST 4TH STREET,,TERM,Austin Police Department,8754,White,Male
+NT,2023-02-18,23:36:00,Public Intoxication,TRINTIY STREET AT 6TH STREET,,ACT,Austin Police Department,8888,White,Male
+NT,2023-02-19,1:59:00,Public Intoxication,408 EAST 6TH STREET,,ACT,Austin Police Department,7884,White,Female
+NT,2023-02-19,1:59:00,Disregard Order Of A Police Officer,408 EAST 6TH STREET,,ACT,Austin Police Department,7884,White,Female
+NT,2023-02-19,2:25:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,9098,Black,Male
+NT,2023-02-19,2:27:00,Disorderly Conduct - Fighting,400 BLOCK 6TH STREET,,ACT,Austin Police Department,9122,Black,Male
+NT,2023-02-19,2:27:00,Disorderly Conduct - Fighting,400 BLOCK 6TH STREET,,TERM,Austin Police Department,7442,Black,Male
+NT,2023-02-19,2:30:00,Disorderly Conduct - Fighting,235 EAST 6TH STREET,,ACT,Austin Police Department,8400,White,Male
+NT,2023-02-19,2:30:00,Disorderly Conduct - Fighting,325 EAST 6TH STREET,,ACT,Austin Police Department,8400,Unknown,Male
+NT,2023-02-19,2:43:00,Public Intoxication,300 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,7245,Unknown,Male
+NT,2023-02-19,2:55:00,Disregard Order Of A Police Officer,601 NECHES STREET,,TERM,Austin Police Department,8888,Other,Male
+NT,2023-02-19,3:40:00,Simple Assault By Threat-Non Family,600 BLOCK TRINITY STREET,,ACT,Austin Police Department,7804,Black,Male
+NT,2023-02-19,23:36:00,Public Intoxication,600 BLOCK WEST 6TH STREET,,ACT,Austin Police Department,8425,White,Male
+NT,2023-02-20,1:58:00,Public Intoxication,401 EAST 6TH STREET,,ACT,Austin Police Department,9254,White,Male
+NT,2023-02-20,2:02:00,Public Intoxication,413 EAST 6TH STREET,,ACT,Austin Police Department,9098,White,Female
+NT,2023-02-20,2:13:00,Disregard Order Of A Police Officer,400 E 6TH STREET,,ACT,Austin Police Department,8888,W WHITE,Male
+NT,2023-02-20,2:14:00,Public Intoxication,300 - 400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8888,Unknown,Male
+NT,2023-02-20,2:18:00,Public Intoxication,300 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,7804,Unknown,Male
+NT,2023-02-20,2:34:00,Public Intoxication,300 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,7769,White,Male
+NT,2023-02-20,11:51:00,Disorderly Conduct-Indecent Exposure #,400 BLOCK EAST 6TH STREET SOUTH ALLEY,,ACT,Austin Police Department,7765,Black,Male
+TR,2023-02-20,23:51:00,Simple Assault By Contact,400 BLOCK EAST 6TH STREET SOUTH ALLEY,,ACT,Austin Police Department,7765,Black,Male
+TR,2023-02-21,1:39:00,Pedestrian On Roadway,600 BLOCK CONGRESS AVENUE,,ACT,Austin Police Department,7804,White,Male
+NT,2023-02-21,10:58:00,Public Intoxication,2222 RIO GRANDE STREET,,ACT,Austin Police Department,8968,Unknown,Male
+NT,2023-02-23,22:19:00,Public Intoxication,EAST CESAR CHAVEZ ST AT NORTH IH35 SERVICE ROAD,,ACT,Austin Police Department,9657,Black,Male
+NT,2023-02-24,0:04:00,Public Intoxication,4TH STREET AT GUADALUPE STREET,,ACT,Austin Police Department,8425,White,Male
+NT,2023-02-25,2:12:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,9239,White,Male
+NT,2023-02-25,2:54:00,Public Intoxication,717 EAST 7TH STREET,,ACT,Austin Police Department,9254,White,Male
+OR,2023-02-25,19:09:00,Littering,1011 EAST 5TH STREET #160,,ACT,Austin Police Department,9310,White,Female
+NT,2023-02-26,2:12:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,9239,White,Male
+TR,2023-02-26,2:12:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,9239,White,Male
+NT,2023-02-26,2:21:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,9098,White,Male
+NT,2023-02-26,2:32:00,Public Intoxication,421 EAST 6TH STREET,,TERM,Austin Police Department,9254,Black,Male
+NT,2023-02-26,2:51:00,Failure To Identify - Refuse,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,8888,Black,Male
+NT,2023-02-26,22:42:00,Minor In Possession Of Alcohol,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,9254,Black,Male
+OR,2023-03-03,0:01:00,Urinating in Public Place,600 BLOCK CONGRESS AVENUE,,ACT,Austin Police Department,8354,White,Male
+NT,2023-03-03,2:16:00,Public Intoxication,316 EAST 6TH STREET,,IN,Austin Police Department,8413,Black,Male
+NT,2023-03-04,0:09:00,Public Intoxication,EAST 6TH STREET AT TRINITY STREET,,ACT,Austin Police Department,8425,Black,Male
+NT,2023-03-04,21:49:00,Public Intoxication,510 WEST 10TH STREET,,ACT,Austin Police Department,8204,White,Male
+NT,2023-03-04,22:00:00,Public Intoxication,WEST 5TH STREET AT LAVACA STREET,,TERM,Austin Police Department,8201,White,Male
+OR,2023-03-05,0:50:00,Urinating in Public Place,EAST 6TH STREET AT TRINITY STREET,,TERM,Austin Police Department,7796,White,Male
+OR,2023-03-06,2:13:00,Consuming Alcohol In A Public Street,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,7796,White,Male
+TR,2023-03-07,6:50:00,Pedestrian On Roadway,100 BLOCK NORTH IH35 SERVICE ROAD,,ACT,Austin Police Department,3968,Black,Male
+OR,2023-03-07,6:50:00,Solicit By Person From Street - Sidewalk,100 BLOCK NORTH IH35 SERVICE ROAD,,ACT,Austin Police Department,3968,Black,Male
+OR,2023-03-07,7:15:00,Solicit By Person From Street - Sidewalk,100 BLOCK NORTH IH35 SERVICE ROAD,,ACT,Austin Police Department,3968,White,Male
+TR,2023-03-07,8:00:00,Pedestrian On Roadway,100 BLOCK NORTH IH35 SERVICE ROAD,,ACT,Austin Police Department,3968,Black,Male
+NT,2023-03-07,8:00:00,Failure To Identify - Refuse,100 BLOCK IH35 SERVICE ROAD,,ACT,Austin Police Department,3968,Black,Male
+NT,2023-03-08,7:20:00,Possession Of Drug Paraphernalia,100 BLOCK NORTH IH35 SERVICE ROAD,,ACT,Austin Police Department,3968,Unknown,Female
+NT,2023-03-08,19:00:00,Public Intoxication,TRINITY STREET,6TH STREET,ACT,Austin Police Department,7324,Black,Male
+NT,2023-03-08,23:20:00,Disorderly Conduct-Indecent Exposure #,E 5TH STREET,,ACT,Austin Police Department,7706,White,Male
+NT,2023-03-09,7:50:00,Possession Of Drug Paraphernalia,100 BLOCK NORTH IH35 SERVICE ROAD,,ACT,Austin Police Department,3968,White,Male
+NT,2023-03-10,0:58:00,Disorderly Conduct - Fighting,300 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,7245,White,Male
+NT,2023-03-10,8:00:00,Possession Of Drug Paraphernalia,500 BLOCK NECHES STREET (WEST ALLEY),,IN,Austin Police Department,3968,Black,Male
+TR,2023-03-10,8:00:00,Consuming Alcohol In A Public Street,500 BLOCK NECHES STREET (WEST ALLEY),,IN,Austin Police Department,3968,Black,Male
+NT,2023-03-10,23:29:00,Public Intoxication,600 BLOCK NECHES STREET,,ACT,Austin Police Department,8413,White,Male
+NT,2023-03-11,8:45:00,Possession Of Drug Paraphernalia,500 BLOCK NECHES STREET,,ACT,Austin Police Department,3968,Black,Male
+NT,2023-03-11,23:54:00,Public Intoxication,300 BLOCK EAST 6TH,,TERM,Austin Police Department,8888,White,Male
+NT,2023-03-12,0:50:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,8674,Black,Male
+NT,2023-03-12,1:18:00,Public Intoxication,406 EAST 6TH STREET,,ACT,Austin Police Department,9254,Black,Female
+NT,2023-03-12,1:50:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,9100,Black,Female
+TR,2023-03-12,3:40:00,Disorderly Conduct - Fighting,400 EAST 6TH STREET,,TERM,Austin Police Department,8498,White,Male
+NT,2023-03-12,3:42:00,Public Intoxication,717 EAST 7TH STREET,,ACT,Austin Police Department,9239,Black,Male
+OR,2023-03-12,7:00:00,Solicit By Person From Street - Sidewalk,100 BLOCK NORTH IH35 SERVICE ROAD,,ACT,Austin Police Department,3968,Black or African American,Female
+TR,2023-03-12,7:00:00,Pedestrian On Roadway,100 BLOCK NORTH IH35 SERVICE ROAD,,ACT,Austin Police Department,3968,Black,Female
+NT,2023-03-12,7:30:00,Possession Of Drug Paraphernalia,500 BLOCK BRAZOS STREET,,ACT,Austin Police Department,3968,White,Male
+NT,2023-03-12,8:30:00,Failure To Identify - Refuse,700 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,3968,Other,Male
+NT,2023-03-12,9:25:00,Possession Of Drug Paraphernalia,500 BLOCK WALLER CREEK,,ACT,Austin Police Department,3968,Black,Male
+OR,2023-03-12,12:20:00,Consuming Alcohol In A Public Street,700 BLOCK EAST 8TH STREET,,ACT,Austin Police Department,3968,White,Male
+OR,2023-03-12,12:34:00,Consuming Alcohol In A Public Street,800 BLOCK BRAZOS,,ACT,Austin Police Department,3968,White,Male
+TR,2023-03-12,12:34:00,Consuming Alcohol In A Public Street,800 BRAZOS STREET,,TERM,Austin Police Department,3968,White,Male
+NT,2023-03-12,12:53:00,Public Intoxication,DRISKILL STREET AND RED RIVER STREET,,ACT,Austin Police Department,6174,Black,Male
+OR,2023-03-13,10:00:00,Solicit By Person From Street - Sidewalk,100 BLOCK NORTH IH35 SERVICE ROAD SOUTHBOUND,,ACT,Austin Police Department,3968,Black,Male
+TR,2023-03-13,10:00:00,Pedestrian On Roadway,100 BLOCK NORTH IH35 SERVICE ROAD,,DELC,Austin Police Department,3968,Black,Male
+OR,2023-03-13,10:00:00,Solicit By Person From Street - Sidewalk,100 BLOCK NORTH IH35 SERVICE ROAD,,DELC,Austin Police Department,3968,Black,Male
+OR,2023-03-13,10:00:00,Solicit By Person From Street - Sidewalk,100 BLOCK NORTH IH35 SERVICE ROAD SOUTHBOUND,,IN,Austin Police Department,3968,Black,Male
+TR,2023-03-13,10:00:00,Pedestrian On Roadway,100 BLOCK NORTH IH35 SERVICE ROAD SOUTHBOUND,,ACT,Austin Police Department,3968,Black,Male
+TR,2023-03-13,10:00:00,Pedestrian On Roadway,100 BLOCK NORTH IH35 SERVICE ROAD SOUTHBOUND,,IN,Austin Police Department,3968,Black,Male
+NT,2023-03-13,10:45:00,Possession Of Drug Paraphernalia,500 BLOCK NECHES STREET NORTH ALLEY,,ACT,Austin Police Department,3968,Black,Female
+NT,2023-03-13,10:55:00,Possession Of Drug Paraphernalia,400 EAST 6TH STREET SOUTH ALLEY,,ACT,Austin Police Department,3968,Black,Male
+NT,2023-03-13,16:08:00,Misdemeanor Theft C - Less Than $100,301 BRAZOS STREET,,IN,Austin Police Department,9254,White,Female
+NT,2023-03-13,21:00:00,Simple Assault By Contact - Family,9005 ALDERMAN DRIVE,,ACT,,,White,Male
+NT,2023-03-14,1:27:00,Disregard Order Of A Police Officer,EAST 6TH STREET AT TRINITY STREET,,TERM,Austin Police Department,7796,White,Male
+NT,2023-03-14,1:30:00,Public Intoxication,200 EAST 6TH STREET,,TERM,Austin Police Department,7245,Other,Male
+NT,2023-03-14,22:45:00,Misdemeanor Theft C - Less Than $100,402 E 6TH STREET,,TERM,Austin Police Department,9100,White,Female
+NT,2023-03-15,1:50:00,Disregard Order Of A Police Officer,600 TRINITY STREET,,TERM,Austin Police Department,7796,White,Male
+OR,2023-03-15,19:53:00,Urinating in Public Place,600 BRUSHY ST,,TERM,Austin Police Department,8140,Black or African American,Male
+NT,2023-03-16,23:00:00,Public Intoxication,600 BLOCK NECHES STREET,,ACT,Austin Police Department,8218,Unknown,Male
+NT,2023-03-17,0:50:00,Public Intoxication,600 BLOCK NECHES STREET,,TERM,Austin Police Department,7855,White,Female
+NT,2023-03-17,0:59:00,Public Intoxication,600 BLOCK RIO GRANDE STREET,,TERM,Austin Police Department,8140,White,Male
+NT,2023-03-17,1:24:00,Disorderly Conduct - Fighting,325 EAST 6TH STREET,,ACT,Austin Police Department,7796,Black,Male
+NT,2023-03-17,2:05:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,9098,Black,Male
+NT,2023-03-17,21:00:00,Public Intoxication,6TH STREET AT NECHES STREET,,IN,Austin Police Department,9045,White,Male
+NT,2023-03-17,22:30:00,Public Intoxication,600 BLOCK TRINITY STREET,,ACT,Austin Police Department,8242,Black,Male
+NT,2023-03-18,0:01:00,Public Intoxication,414 EAST 6TH STREET,,TERM,Austin Police Department,9081,Unknown,Male
+NT,2023-03-18,0:29:00,Public Intoxication,EAST 6TH STREET,,TERM,Austin Police Department,6434,Unknown,Female
+NT,2023-03-18,14:00:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8411,White,Female
+OR,2023-03-18,20:53:00,Smoking - Public Place,415 EAST 6TH STREET,,ACT,Austin Police Department,6331,Black,Male
+OR,2023-03-18,21:56:00,Urinating in Public Place,600 BLOCK NECHES STREET,,TERM,Austin Police Department,7435,Unknown,Male
+NT,2023-03-19,0:01:00,Public Intoxication,414 EAST 6TH STREET,,ACT,Austin Police Department,7560,Black,Female
+NT,2023-03-19,1:18:00,Disorderly Conduct - Fighting,406 EAST 6TH STREET,,ACT,Austin Police Department,9254,White,Male
+NT,2023-03-19,1:30:00,Interference With A Police Service Animal,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,9100,White,Male
+NT,2023-03-19,2:40:00,Public Intoxication,600 BLOCK TRINITY STREET,,TERM,Austin Police Department,9254,White,Male
+NT,2023-03-19,7:45:00,Possession Of Drug Paraphernalia,500 BLOCK BRAZOS STREET,,TERM,Austin Police Department,3968,Black,Male
+OR,2023-03-20,7:40:00,Open Glass Container,500 BLOCK NECHES STREET,,TERM,Austin Police Department,3968,Black,Male
+OR,2023-03-20,11:15:00,Consuming Alcohol In A Public Street,600 BLOCK SABINE STREET,,ACT,Austin Police Department,3968,Black,Male
+OR,2023-03-20,11:15:00,Consuming Alcohol In A Public Street,600 BLOCK SABINE STREET,,TERM,Austin Police Department,3968,Black,Male
+OR,2023-03-23,8:23:00,Camping In A Public Place,9100 BLOCK SOUTH IH 35 SERVICE ROAD,,ACT,Austin Police Department,7490,White,Female
+NT,2023-03-25,0:01:00,Public Intoxication,500 BLOCK WEST 6TH STREET,,ACT,Austin Police Department,8509,White,Male
+NT,2023-03-25,0:01:00,Disorderly Conduct - Fighting,6TH STREET AT TRINITY STREET,,TERM,Austin Police Department,8888,Black,Male
+NT,2023-03-25,1:47:00,Public Intoxication,700 BLOCK WEST 26TH STREET,,TERM,Austin Police Department,9074,White,Male
+TR,2023-03-25,1:59:00,Disorderly Conduct - Fighting,EAST 6TH STREET AT TRINITY STREET,,ACT,Austin Police Department,8425,Black,Male
+TR,2023-03-25,2:00:00,Disorderly Conduct - Fighting,401 EAST 6TH STREET,,ACT,Austin Police Department,9239,Black,Male
+NT,2023-03-25,8:00:00,Possession Of Drug Paraphernalia,500 BLOCK BRAZOS STREET,,ACT,Austin Police Department,3968,Black,Male
+OR,2023-03-25,9:10:00,Consuming Alcohol In A Public Street,700 BLOCK RED RIVER STREET,,ACT,Austin Police Department,3968,Black,Male
+NT,2023-03-25,9:30:00,Possession Of Drug Paraphernalia,500 BLOCK NECHES STREET,,ACT,Austin Police Department,3968,Black,Male
+NT,2023-03-26,0:10:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8548,Black,Male
+OR,2023-03-26,7:00:00,Solicit By Person From Street - Sidewalk,100 BLOCK NORTH IH35 SERVICE ROAD SOUTH BOUND,,IN,Austin Police Department,3968,Black,Female
+NT,2023-03-26,7:40:00,Possession Of Drug Paraphernalia,500 BLOCK TRINITY STREET,,ACT,Austin Police Department,3968,Black,Male
+NT,2023-03-26,8:45:00,Possession Of Drug Paraphernalia,600 BLOCK SABINE STREET,,IN,Austin Police Department,3968,Black,Male
+NT,2023-03-27,0:01:00,Public Intoxication,901 EAST 5TH STREET,,ACT,Austin Police Department,5354,White,Male
+TR,2023-03-27,2:10:00,Open Container Motor Vehicle Pc 49.031,400 EAST 6TH STREET,,IN,Austin Police Department,7796,Black,Male
+NT,2023-03-27,2:30:00,Public Intoxication,700 WEST 6TH STREET,,ACT,Austin Police Department,7769,White,Male
+NT,2023-03-27,19:10:00,Public Intoxication,1700 BLOCK CESAR CHAVEZ,,TERM,Austin Police Department,8893,White,Female
+NT,2023-03-28,1:33:00,Public Intoxication,407 EAST 6TH STREET,,ACT,Austin Police Department,9252,White,Male
+NT,2023-03-28,1:33:00,Public Intoxication,407 EAST 6TH STREET,,TERM,Austin Police Department,9252,White,Male
+OR,2023-03-28,3:00:00,Consuming Alcohol In A Public Street,400 BLOCK EAST 6TH STREET (SOUTH ALLEY),,ACT,Austin Police Department,8345,Black,Female
+NT,2023-03-28,5:04:00,Disorderly Conduct - Fighting,500 NECHES ST,,ACT,Austin Police Department,8888,W WHITE,Male
+NT,2023-03-29,2:00:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,IN,Austin Police Department,9252,White,Male
+OR,2023-03-29,2:10:00,Littering,400 BLOCK EAST 6TH STREET,,IN,Austin Police Department,9252,White,Male
+NT,2023-04-01,2:25:00,Public Intoxication,94 RAINEY STREET,,TERM,Austin Police Department,9646,Black,Male
+NT,2023-04-01,2:29:00,Disorderly Conduct - Fighting,600 BLOCK TRINITY STREET,,ACT,Austin Police Department,7796,Black,Female
+TR,2023-04-01,2:29:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,7796,Black,Female
+NT,2023-04-01,3:31:00,Public Intoxication,404 COLORADO STREET,,TERM,Austin Police Department,8678,White,Male
+NT,2023-04-02,2:05:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8205,Black,Male
+NT,2023-04-02,2:05:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8205,Black,Male
+NT,2023-04-02,2:05:00,Simple Assault By Threat-Non Family,611 NECHES STREET (CARITAS),,ACT,Austin Police Department,8205,Black,Male
+NT,2023-04-02,2:06:00,Disorderly Conduct - Fighting,404 EAST 6TH STREET,,ACT,Austin Police Department,7785,Black,Female
+NT,2023-04-02,2:15:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8928,Black,Female
+OR,2023-04-03,22:17:00,Pedestrian In Roadway/City Ordinance,300 BOCK EAST 6TH STREET,,ACT,Austin Police Department,7765,White,Male
+NT,2023-04-04,0:44:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,IN,Austin Police Department,8888,Black,Male
+TR,2023-04-04,22:08:00,Pedestrian Walking Against Light,EAST 6TH STREET AT RED RIVER STREET,,ACT,Austin Police Department,7804,White,Male
+TR,2023-04-04,22:08:00,Pedestrian Walking Against Light,EAST 6TH STREET AT RED RIVER STREET,,TERM,Austin Police Department,7804,Black,Male
+NT,2023-04-05,3:41:00,Public Intoxication,600 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,7796,Other,Female
+NT,2023-04-05,8:00:00,Simple Assault By Contact,604 BRAZOS STREET,,ACT,Austin Police Department,8289,White,Male
+NT,2023-04-05,8:00:00,Possession Of Drug Paraphernalia,604 BRAZOS STREET,,ACT,Austin Police Department,8289,White,Male
+NT,2023-04-05,20:56:00,Public Intoxication,200 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,9122,White,Male
+NT,2023-04-05,22:55:00,Public Intoxication,TRINITY STREET AT 8TH STREET,,ACT,Austin Police Department,8400,Black,Male
+NT,2023-04-05,23:02:00,Public Intoxication,110 EAST 2ND STREET,,TERM,Austin Police Department,9239,White,Male
+NT,2023-04-07,18:04:00,Public Intoxication,201 LAVACA STREET,,IN,Austin Police Department,7785,White,Male
+NT,2023-04-08,0:01:00,Public Intoxication,WEST 4TH STREET AT LAVACA STREET,,TERM,Austin Police Department,8570,White,Male
+NT,2023-04-08,7:25:00,Possession Of Drug Paraphernalia,500 BLOCK NECHES STREET,,IN,Austin Police Department,3968,White,Male
+NT,2023-04-08,13:59:00,Public Intoxication,1105 EAST CESAR CHAVEZ STREET,,IN,Austin Police Department,9402,White,Male
+NT,2023-04-09,2:20:00,Interference With A Police Service Animal,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,9100,Black,Male
+NT,2023-04-09,2:30:00,Disorderly Conduct - Fighting,607 TRINITY STREET,,TERM,Austin Police Department,8205,Black,Male
+NT,2023-04-09,2:49:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8530,White,Male
+NT,2023-04-09,22:12:00,Public Intoxication,401 EAST 7TH STREET,,ACT,Austin Police Department,9254,White,Male
+NT,2023-04-10,1:07:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,7796,Unknown,Female
+NT,2023-04-10,1:23:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,7804,Other,Male
+TR,2023-04-10,1:23:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,7804,Other,Male
+NT,2023-04-10,1:56:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8205,Unknown,Male
+TR,2023-04-11,1:00:00,Pedestrian On Roadway,610 DAVIS STREET,,TERM,Austin Police Department,7796,Black,Female
+NT,2023-04-12,1:17:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,7769,White,Male
+NT,2023-04-12,1:19:00,Public Intoxication,600 BLOCK CONGRESS AVENUE,,ACT,Austin Police Department,8584,White,Male
+NT,2023-04-12,9:43:00,Misdemeanor Theft C - Less Than $100,525 NORTH LAMAR BOULEVARD,,ACT,Austin Police Department,7758,White,Male
+OR,2023-04-12,22:39:00,"Sitting, Lying Down, Sleeping Outdoors",EAST 6TH STREET AT BRAZOS STREET,,TERM,Austin Police Department,8205,Black,Male
+NT,2023-04-13,3:54:00,Gaming - Cards; Dice; Or Balls,600 BLOCK TRINITY STREET,,IN,Austin Police Department,8205,Black,Male
+NT,2023-04-13,3:54:00,Gaming - Cards; Dice; Or Balls,600 BLOCK TRINITY STREET,,TERM,Austin Police Department,8205,Black,Male
+NT,2023-04-13,3:54:00,Gaming - Cards; Dice; Or Balls,600 BLOCK TRINITY STREET,,ACT,Austin Police Department,8205,Black,Male
+NT,2023-04-14,1:29:00,Public Intoxication,405 LAVACA STREET,,IN,Austin Police Department,8584,Black,Male
+NT,2023-04-14,4:00:00,Possession Of Drug Paraphernalia,308 SAN JACINTO STREET,,IN,Austin Police Department,8674,Black,Male
+NT,2023-04-14,15:21:00,Public Intoxication,1902 EAST 6TH STREET,,TERM,Austin Police Department,8555,White,Male
+NT,2023-04-14,17:01:00,Public Intoxication,604 BRAZOS STREET,,IN,Austin Police Department,8548,Black,Male
+NT,2023-04-15,0:15:00,Public Intoxication,609 DAVIS STREET,,TERM,Austin Police Department,8928,White,Male
+OR,2023-04-15,0:16:00,Pedestrian In Roadway/City Ordinance,600  BRAZOS,,IN,Austin Police Department,9252,Black or African American,Female
+NT,2023-04-15,1:21:00,Public Intoxication,200 BLOCK 5TH STREET,,ACT,Austin Police Department,8530,White,Male
+NT,2023-04-15,3:11:00,Public Intoxication,508 WEST AVENUE,,TERM,Austin Police Department,4821,White,Male
+OR,2023-04-15,23:39:00,Camping In A Public Place,500 BRAZOS STREET,,ACT,Austin Police Department,6434,Black or African American,Male
+NT,2023-04-17,17:03:00,Misdemeanor Theft C - Less Than $100,901 EAST 5TH STREET,,ACT,Austin Police Department,9634,Black,Male
+NT,2023-04-17,17:03:00,Simple Assault By Contact,901 EAST 5TH STREET,,TERM,Austin Police Department,9634,Black,Male
+NT,2023-04-17,20:24:00,Disorderly Conduct-Indecent Exposure #,110 EAST 2ND STREET,,TERM,Austin Police Department,7765,Black,Male
+OR,2023-04-18,9:35:00,Pedestrian In Roadway/City Ordinance,EAST 6TH STREET AND BRAZOS STREET,,ACT,Austin Police Department,7705,Black,Male
+NT,2023-04-18,23:30:00,Public Intoxication,310 WEST WILLIE NELSON BOULEVARD,,ACT,Austin Police Department,8065,White,Male
+NT,2023-04-19,0:37:00,Public Intoxication,200 LAVACA STREET,,TERM,Austin Police Department,7804,White,Male
+NT,2023-04-19,1:09:00,Public Intoxication,214 WEST 4TH STREET,,ACT,Austin Police Department,8674,White,Female
+OR,2023-04-19,23:59:00,Littering,EAST 6TH STREET AND TRINITY STREET,,IN,Austin Police Department,4951,Other,Male
+NT,2023-04-20,0:48:00,Public Intoxication,900 BLOCK NORTH IH-35 SERVICE ROAD,,IN,Austin Police Department,9559,Asian,Male
+NT,2023-04-20,12:15:00,Possession Of Drug Paraphernalia,EAST 6TH STREET AND BRAZOS STREET,,ACT,Austin Police Department,8674,Black,Male
+NT,2023-04-21,22:29:00,Public Intoxication,617 WEST 6TH STREET,,TERM,Austin Police Department,7804,White,Male
+NT,2023-04-22,0:40:00,Disorderly Conduct-Indecent Exposure #,500 EAST 7TH STREET,,IN,Austin Police Department,8674,Black,Male
+NT,2023-04-22,0:43:00,Disorderly Conduct - Fighting,EAST 6TH STREET AND NECHES STREET,,TERM,Austin Police Department,6331,Other,Male
+NT,2023-04-22,2:15:00,Public Intoxication,300 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,9252,White,Male
+OR,2023-04-22,23:55:00,"Sitting, Lying Down, Sleeping Outdoors",600 BRAZOS STREET,,TERM,Austin Police Department,6434,White,Male
+NT,2023-04-23,0:47:00,Public Intoxication,601 WEST 2ND STREET,,IN,Austin Police Department,7884,Black,Male
+NT,2023-04-23,1:50:00,Public Intoxication,EAST 6TH STREET AND TRINITY STREET,,ACT,Austin Police Department,9100,Other,Male
+NT,2023-04-23,4:47:00,Failure To Identify - Refuse,218 WEST 4TH STREET,,ACT,Austin Police Department,8413,Black,Male
+NT,2023-04-23,9:43:00,Misdemeanor Theft C - Less Than $100,525 NORTH LAMAR BOULEVARD,,TERM,Austin Police Department,7758,White,Male
+TR,2023-04-23,14:36:00,Failure To Identify - Refuse,400 LAVACA STREET,,ACT,Austin Police Department,9098,White,Male
+NT,2023-04-23,14:36:00,Public Intoxication,400 LAVACA STREET,,IN,Austin Police Department,9098,White,Male
+NT,2023-04-23,22:15:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,9252,Hispanic or Latino,Male
+NT,2023-04-23,22:30:00,Possession Of Drug Paraphernalia,EAST 6TH STREET AT BRAZOS STREET,,ACT,Austin Police Department,9100,White,Male
+TR,2023-04-23,22:30:00,Public Intoxication,EAST 6TH STREET AT BRAZOS STREET,,ACT,Austin Police Department,9100,White,Male
+TR,2023-04-23,22:30:00,Open Glass Container,EAST 6TH STREET AT BRAZOS STREET,,ACT,Austin Police Department,9100,White,Male
+OR,2023-04-23,23:30:00,Open Glass Container,EAST 6TH STREET AT TRINITY STREET,,ACT,Austin Police Department,6434,Black,Male
+NT,2023-04-23,23:59:00,Public Intoxication,EAST 6TH STREET AND NECHES STREET,,TERM,Austin Police Department,8422,White,Male
+NT,2023-04-24,0:58:00,Failure To Identify - Refuse,300 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,9239,White,Male
+NT,2023-04-25,1:03:00,Public Intoxication,404 EAST 6TH STREET,,ACT,Austin Police Department,8674,White,Male
+NT,2023-04-25,22:30:00,Public Intoxication,110 E 2ND STREET,,TERM,Austin Police Department,8548,White,Female
+TR,2023-04-26,0:52:00,Pedestrian Walking Against Light,EAST 6TH STREET AT TRINITY STREET,,TERM,Austin Police Department,7804,White,Male
+NT,2023-04-26,2:25:00,Public Intoxication,200 BLOCK CONGRESS AVENUE,4TH STREET,TERM,Austin Police Department,8584,White,Male
+NT,2023-04-26,14:21:00,Simple Assault By Contact,360 NUECES STREET (ROYAL BLUE GROCERY),,ACT,Austin Police Department,8953,Black,Male
+NT,2023-04-26,21:35:00,Disorderly Conduct-Indecent Exposure #,300 BLOCK  E 7TH STREET,,ACT,Austin Police Department,7765,Black,Male
+NT,2023-04-27,6:55:00,Possession Of Drug Paraphernalia,200 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,3968,Black,Male
+NT,2023-04-27,23:27:00,Public Intoxication,400 BLOCK BRAZOS STREET,,TERM,Austin Police Department,8674,White,Male
+OR,2023-04-28,1:30:00,Urinating in Public Place,EAST 6TH STREET AT TRINITY STREET,,TERM,Austin Police Department,7615,White,Male
+NT,2023-04-28,2:05:00,Public Intoxication,WEST 6TH STREET AT RIO GRANDE STREET,,TERM,Austin Police Department,7804,White,Male
+NT,2023-04-28,18:30:00,Disorderly Conduct-Indecent Exposure #,316 EAST 6TH STREET,,TERM,Austin Police Department,7884,Black,Male
+NT,2023-04-28,23:50:00,Public Intoxication,1701 EAST CESAR CHAVEZ STREET,,ACT,Austin Police Department,9310,White,Male
+NT,2023-04-29,11:10:00,Public Intoxication,900 BLOCK NORTH IH-35 SERVICE ROAD,,IN,Austin Police Department,7884,Unknown,Male
+TR,2023-04-30,3:20:00,Pedestrian On Roadway,600 BLOCK OF TRINITY STREET,,TERM,Austin Police Department,6434,Black,Female
+NT,2023-05-01,0:20:00,Public Intoxication,708 E 6TH STREET,,ACT,Austin Police Department,9172,White,Female
+NT,2023-05-01,0:20:00,Public Intoxication,700 BLOCK E 6TH STREET,,TERM,Austin Police Department,8201,Other,Female
+NT,2023-05-01,1:45:00,Public Intoxication,411 E 6TH STREET,,TERM,Austin Police Department,9252,White,Male
+NT,2023-05-02,0:36:00,Possession Of Drug Paraphernalia,700 BLOCK EAST 7TH STREET,,TERM,Austin Police Department,7804,Black,Male
+NT,2023-05-03,1:50:00,Public Intoxication,EAST 6TH STREET AT TRINITY STREET,,TERM,Austin Police Department,8345,White,Male
+OR,2023-05-03,23:02:00,Pedestrian In Roadway/City Ordinance,700 E CESAR CHAVEZ ST,,TERM,Austin Police Department,7796,Black or African American,Male
+NT,2023-05-04,15:44:00,Disorderly Conduct-Indecent Exposure #,1500 RED RIVER STREET,,TERM,Austin Police Department,9651,Black,Female
+TR,2023-05-04,15:44:00,Failure To Identify - Refuse,1500 RED RIVER STREET,,TERM,Austin Police Department,9651,Black,Female
+OR,2023-05-04,16:30:00,Camping In A Public Place,600 BRAZOS ST,,IN,Austin Police Department,9252,Black or African American,Male
+NT,2023-05-04,22:17:00,Possession Of Drug Paraphernalia,EAST 6TH STREET AT SABINE STREET,,IN,Austin Police Department,8674,White,Male
+NT,2023-05-05,0:01:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,IN,Austin Police Department,8201,Black,Female
+NT,2023-05-05,0:01:00,Public Intoxication,EAST 6TH STREET AND TRINITY STREET,,TERM,Austin Police Department,8530,White,Male
+NT,2023-05-05,0:01:00,Public Intoxication,3819 SPEEDWAY,,TERM,Austin Police Department,4578,White,Male
+OR,2023-05-05,3:00:00,"Sitting, Lying Down, Sleeping Outdoors",501 WEST 5TH STREET,,ACT,Austin Police Department,9100,White,Female
+OR,2023-05-05,3:30:00,Camping In A Public Place,510 WEST 5TH STREET,,TERM,Austin Police Department,6434,White,Female
+OR,2023-05-05,3:45:00,Pedestrian In Roadway/City Ordinance,300 WEST 3RD STREET,,ACT,Austin Police Department,7245,Unknown,Male
+OR,2023-05-06,0:50:00,Consuming Alcohol In A Public Street,500 BLOCK TRINITY STREET,,ACT,Austin Police Department,7796,White,Male
+NT,2023-05-07,9:49:00,Possession Of Drug Paraphernalia,6TH STREET AT BRAZOS STREET,,TERM,Austin Police Department,4556,Black,Male
+NT,2023-05-07,22:20:00,Possession Of Drug Paraphernalia,EAST 6TH STREET AT BRAZOS STREET,,TERM,Austin Police Department,8674,Black,Male
+NT,2023-05-08,0:45:00,Possession Of Drug Paraphernalia,218 WEST 4TH STREET,,IN,Austin Police Department,8205,Black,Male
+NT,2023-05-08,4:10:00,Possession Of Drug Paraphernalia,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8205,White,Male
+NT,2023-05-08,4:15:00,Possession Of Drug Paraphernalia,400 BLOCK EAST 6TH STREET,,IN,Austin Police Department,8205,Black,Male
+OR,2023-05-08,13:58:00,"Sitting, Lying Down, Sleeping Outdoors",500 EAST 4TH STREET,,ACT,Austin Police Department,8289,White,Male
+NT,2023-05-08,13:58:00,Failure To Identify - Refuse,500 EAST 4TH STREET,,ACT,Austin Police Department,8289,White,Male
+NT,2023-05-09,1:58:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,9098,White,Male
+NT,2023-05-09,2:00:00,Public Intoxication,308 EAST 6TH STREET,,ACT,Austin Police Department,9252,White,Female
+NT,2023-05-09,2:17:00,Possession Of Drug Paraphernalia,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,8205,White,Male
+TR,2023-05-09,2:20:00,Pedestrian Walking Against Light,EAST 6TH STREET AT NECHES STREET,,ACT,Austin Police Department,9098,White,Male
+OR,2023-05-09,8:58:00,Camping In A Public Place,100 BRUSHY STREET,,IN,Austin Police Department,7080,Other,Male
+OR,2023-05-09,17:59:00,Consuming Alcohol In A Public Street,500 BLOCK TRINITY STREET,,ACT,Austin Police Department,9098,Black,Male
+OR,2023-05-10,0:45:00,"Sitting, Lying Down, Sleeping Outdoors",300 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,6434,Black,Male
+NT,2023-05-10,0:58:00,Disorderly Conduct - Fighting,300 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,7245,White,Male
+NT,2023-05-10,2:20:00,Public Intoxication,300 EAST 11TH STREET,,TERM,Austin Police Department,7796,White,Male
+TR,2023-05-10,20:56:00,Pedestrian Crossing Midblock,WEST 4TH STREET AT COLORADO STREET,,TERM,Austin Police Department,7884,White,Male
+OR,2023-05-11,1:30:00,"Sitting, Lying Down, Sleeping Outdoors",600 BLOCK TRINITY STREET,,ACT,Austin Police Department,6434,Black,Male
+OR,2023-05-11,1:40:00,"Sitting, Lying Down, Sleeping Outdoors",200 BLOCK EAST 6TH STREET,,IN,Austin Police Department,6434,White,Male
+OR,2023-05-11,1:40:00,"Sitting, Lying Down, Sleeping Outdoors",200 BLOCK EAST 6TH STREET,,IN,Austin Police Department,6434,Asian,Male
+OR,2023-05-11,1:44:00,Pedestrian In Roadway/City Ordinance,78 EAST AVENUE,,TERM,Austin Police Department,7796,White,Female
+NT,2023-05-11,5:30:00,Possession Of Drug Paraphernalia,500 BLOCK TRINITY STREET,,ACT,Austin Police Department,3968,White,Male
+NT,2023-05-11,10:40:00,Possession Of Drug Paraphernalia,500 BLOCK NECHES STREET,,ACT,Austin Police Department,3968,Black,Male
+NT,2023-05-12,0:01:00,Public Intoxication,300 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,8352,White,Male
+NT,2023-05-12,0:05:00,Public Intoxication,408 EAST 6TH STREET,,IN,Austin Police Department,9098,White,Male
+NT,2023-05-12,1:22:00,Simple Assault By Contact,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,8345,White,Male
+NT,2023-05-12,6:45:00,Possession Of Drug Paraphernalia,200 BLOCK WEST CESAR CHAVEZ STREET,,ACT,Austin Police Department,3968,White,Male
+NT,2023-05-12,21:50:00,Public Intoxication,1301 SHOAL CREEK BOULEVARD,,TERM,Austin Police Department,9250,White,Female
+TR,2023-05-12,22:20:00,Gaming - Cards; Dice; Or Balls,EAST 6TH STREET AT SABINE STREET,,IN,Austin Police Department,8674,Black,Female
+NT,2023-05-12,22:20:00,Gaming - Cards; Dice; Or Balls,EAST 6TH STREET AT SABINE STREET,,IN,Austin Police Department,8674,Black,Male
+NT,2023-05-13,1:20:00,Disorderly Conduct - Fighting,EAST 6TH STREET AND TRINITY STREET,,TERM,Austin Police Department,8345,Black,Female
+NT,2023-05-13,1:30:00,Public Intoxication,6TH STREET AT TRINITY STREET,,TERM,Austin Police Department,8498,Unknown,Female
+TR,2023-05-13,1:50:00,Disorderly Conduct - Fighting,408 EAST 6TH STREET,,ACT,Austin Police Department,8345,Black,Female
+NT,2023-05-13,1:50:00,Disorderly Conduct - Fighting,408 EAST 6TH STREET,,TERM,Austin Police Department,8345,White,Female
+NT,2023-05-13,3:19:00,Public Intoxication,221 WEST 6TH STREET,,ACT,Austin Police Department,9239,White,Female
+NT,2023-05-14,1:18:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,8678,Black,Male
+OR,2023-05-14,22:10:00,Open Glass Container,500 BLOCK BRAZOS STREET,,ACT,Austin Police Department,6434,Unknown,Female
+OR,2023-05-14,22:26:00,"Sitting, Lying Down, Sleeping Outdoors",6TH STREET AT BRAZOS STREET,,TERM,Austin Police Department,9100,White,Male
+NT,2023-05-14,22:33:00,Possession Of Drug Paraphernalia,201 EAST 6TH STREET,,ACT,Austin Police Department,9100,Black,Male
+NT,2023-05-15,1:44:00,Public Intoxication,402 EAST 6TH STREET,,TERM,Austin Police Department,8674,Unknown,Male
+NT,2023-05-15,2:00:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,7804,Black,Male
+NT,2023-05-15,2:00:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,IN,Austin Police Department,7804,White,Male
+NT,2023-05-15,2:52:00,Disorderly Conduct - Fighting,EAST 5TH STREET AT RED RIVER STREET,,IN,Austin Police Department,6434,Black,Male
+NT,2023-05-16,5:50:00,Simple Assault By Contact,1500 RED RIVER STREET,,ACT,,2398,Black,Male
+OR,2023-05-16,22:48:00,"Sitting, Lying Down, Sleeping Outdoors",500 BLOCK BRAZOS STREET,,ACT,Austin Police Department,9100,White,Male
+TR,2023-05-16,22:54:00,Pedestrian Walking Against Light,EAST 6TH STREET AND BRAZOS STREET,,TERM,Austin Police Department,9239,Black,Male
+NT,2023-05-17,23:30:00,Public Intoxication,400 BLOCK EAST 7TH STREET,,TERM,Austin Police Department,9252,White,Female
+NT,2023-05-18,2:23:00,Public Intoxication,85 TRINITY STREET,,TERM,Austin Police Department,9100,White,Male
+TR,2023-05-19,0:13:00,Pedestrian On Roadway,RED RIVER STREET AT 7TH STREET,,IN,Austin Police Department,8530,Black,Female
+NT,2023-05-19,3:42:00,Public Intoxication,EAST 6TH STREET AT TRINITY STREET,,TERM,Austin Police Department,8530,White,Male
+NT,2023-05-19,23:30:00,Public Intoxication,403 EAST 6TH STREET,,TERM,Austin Police Department,8345,White,Male
+NT,2023-05-20,0:01:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,9239,Black,Male
+NT,2023-05-20,0:01:00,Public Intoxication,525 NORTH LAMAR BOULEVARD,,ACT,Austin Police Department,8226,Unknown,Male
+NT,2023-05-20,2:22:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,8498,Black,Male
+OR,2023-05-20,22:18:00,"Sitting, Lying Down, Sleeping Outdoors",201 EAST 6TH STREET,,IN,Austin Police Department,9100,Unknown,Male
+NT,2023-05-20,22:18:00,Public Intoxication,EAST 6TH STREET AT BRAZOS STREET,,TERM,Austin Police Department,8678,Hispanic or Latino,Male
+NT,2023-05-21,0:01:00,Public Intoxication,2538 GUADALUPE STREET,,TERM,Austin Police Department,9589,White,Female
+NT,2023-05-21,0:57:00,Public Intoxication,404 COLORADO STREET,,ACT,Austin Police Department,8906,White,Male
+NT,2023-05-21,1:56:00,Disorderly Conduct - Fighting,600 BLOCK TRINITY STREET,,TERM,Austin Police Department,8674,Black,Male
+NT,2023-05-21,1:56:00,Disorderly Conduct - Fighting,600 BLOCK TRINITY STREET,,TERM,Austin Police Department,8674,White,Male
+NT,2023-05-21,22:27:00,Possession Of Drug Paraphernalia,500 BLOCK BRAZOS STREET,,TERM,Austin Police Department,8674,Black,Male
+NT,2023-05-22,0:14:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,7804,Unknown,Male
+NT,2023-05-22,8:00:00,Possession Of Drug Paraphernalia,500 BLOCK TRINITY STREET,,ACT,Austin Police Department,3968,Unknown,Female
+TR,2023-05-24,0:01:00,Pedestrian On Roadway,30 BLOCK NORTH IH35 SERVICE ROAD,,ACT,Austin Police Department,8201,White,Female
+NT,2023-05-24,12:29:00,Misdemeanor Theft C - Less Than $100,901 EAST 5TH STREET,,ACT,Austin Police Department,7706,White,Male
+NT,2023-05-25,1:00:00,Simple Assault By Contact,217 WEST 4TH STREET (RAIN BAR),,ACT,Austin Police Department,9100,Black,Male
+OR,2023-05-25,7:39:00,Pedestrian In Roadway/City Ordinance,500 BLOCK EAST 7TH STREET,,TERM,Austin Police Department,7408,Black,Male
+NT,2023-05-25,21:41:00,Public Intoxication,BRAZOS STREET AT 6TH STREET,,TERM,Austin Police Department,8919,White,Male
+OR,2023-05-26,3:19:00,Littering,400 BLOCK EAST 7TH STREET,,ACT,Austin Police Department,7804,Unknown,Male
+NT,2023-05-26,8:00:00,Possession Of Drug Paraphernalia,500 BLOCK SABINE STREET,,ACT,Austin Police Department,3968,Black,Female
+NT,2023-05-26,19:31:00,Disorderly Conduct-Indecent Exposure #,600 BLOCK SAN ANTONIO STREET,,ACT,Austin Police Department,7765,White,Male
+OR,2023-05-26,21:52:00,"Sitting, Lying Down, Sleeping Outdoors",EAST 6TH STREET AT SABINE STREET,,ACT,Austin Police Department,9098,Black,Male
+OR,2023-05-26,21:52:00,Littering,EAST 6TH STREET AT SABINE STREET,,ACT,Austin Police Department,9098,Black,Male
+NT,2023-05-26,22:40:00,Possession Of Drug Paraphernalia,500 BLOCK NECHES STREET,,ACT,Austin Police Department,3968,Black,Male
+NT,2023-05-27,23:39:00,Public Intoxication,316 EAST 6TH STREET,,TERM,Austin Police Department,7796,White,Male
+NT,2023-05-28,1:00:00,Public Intoxication,325 EAST 6TH STREET,,ACT,Austin Police Department,8345,White,Male
+NT,2023-05-28,23:09:00,Failure To Identify - Refuse,500 BLOCK TRINITY STREET,,ACT,Austin Police Department,7796,Unknown,Male
+NT,2023-05-28,23:09:00,Public Intoxication,500 BLOCK TRINITY STREET,,ACT,Austin Police Department,7796,Unknown,Male
+NT,2023-05-29,2:30:00,Disorderly Conduct - Fighting,607 TRINITY STREET,,ACT,Austin Police Department,9100,Black,Female
+NT,2023-05-29,2:30:00,Disorderly Conduct - Fighting,607 TRINTIY STREET,,ACT,Austin Police Department,9100,Unknown,Female
+NT,2023-05-30,0:01:00,Public Intoxication,900 BLOCK EAST CESAR CHAVEZ STREET,,ACT,Austin Police Department,4695,White,Female
+NT,2023-05-30,0:01:00,Public Intoxication,7TH STREET AT RED RIVER STREET,,ACT,Austin Police Department,8888,White,Male
+NT,2023-05-30,0:33:00,Disorderly Conduct-Indecent Exposure #,1700 EAST 4TH STREET,,ACT,Austin Police Department,8888,Black,Male
+NT,2023-05-30,17:30:00,Disorderly Conduct - Fighting,EAST 6TH STREET AT SAN JACINTO BOULEVARD,,ACT,Austin Police Department,9098,White,Male
+NT,2023-05-30,22:35:00,Public Intoxication,611 E 7TH STREET,,TERM,Austin Police Department,7796,White,Male
+TR,2023-05-31,0:45:00,Pedestrian Walking Against Light,E 6TH STREET AND TRINITY STREET,,TERM,Austin Police Department,9100,Black,Male
+OR,2023-05-31,0:45:00,Pedestrian In Roadway/City Ordinance,E 6TH STREET AND TRINITY STREET,,DELC,Austin Police Department,9100,Black,Male
+NT,2023-05-31,6:06:00,Public Intoxication,6TH STREET AT BRAZOS STREET,,ACT,Austin Police Department,8354,Unknown,Male
+NT,2023-06-01,0:01:00,Public Intoxication,304 EAST 7TH STREET,,IN,Austin Police Department,8354,White,Male
+OR,2023-06-01,0:01:00,Pedestrian In Roadway/City Ordinance,304 EAST 7TH STREET,,ACT,Austin Police Department,8354,White,Male
+NT,2023-06-01,16:42:00,Possession Of Drug Paraphernalia,400 BLOCK EAST 6TH STREET SOUTH ALLEY,,ACT,Austin Police Department,9097,Black,Male
+NT,2023-06-01,23:56:00,Public Intoxication,6TH STREET AT TRINITY STREET,,IN,Austin Police Department,8498,White,Male
+NT,2023-06-02,18:42:00,Possession Of Drug Paraphernalia,400 BLOCK EAST 6TH STREET SOUTH ALLEY,,ACT,Austin Police Department,9122,Black,Male
+NT,2023-06-03,1:30:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,7804,Black,Female
+NT,2023-06-04,19:39:00,Public Intoxication,52 RAINEY STREET,,ACT,Austin Police Department,7765,White,Male
+OR,2023-06-06,9:27:00,Smoking Ord - With In 15 Ft Of Pub Entrance,600  CONGRESS AVE,,TERM,Austin Police Department,7597,Black or African American,Male
+OR,2023-06-06,22:10:00,Littering,98 CONGRESS AVENUE,,ACT,Austin Police Department,8674,White,Male
+OR,2023-06-07,23:15:00,Park Curfew Violation,501 W 5TH STREET,,TERM,Austin Police Department,8888,W WHITE,Male
+NT,2023-06-07,23:34:00,Disorderly Conduct - Abusive Language,100 BLOCK WEST 2ND STREET,,TERM,Austin Police Department,7765,White,Female
+NT,2023-06-07,23:34:00,Failure To Identify - Refuse,100 BLOCK WEST 2ND STREET,,TERM,Austin Police Department,7765,White,Female
+TR,2023-06-08,11:40:00,Pedestrian Walking Against Light,EAST 6TH STREET AT CONGRESS AVENUE,,TERM,Austin Police Department,6781,Black,Male
+NT,2023-06-08,22:00:00,Public Intoxication,305 WEST 5TH STREET,,TERM,Austin Police Department,9122,White,Female
+OR,2023-06-08,23:57:00,Urinating in Public Place,400 BLOCK OF 6TH STREET,,TERM,Austin Police Department,8888,White,Male
+NT,2023-06-08,23:57:00,Minor Consuming Alcohol,400 BLOCK OF 6TH STREET,,TERM,Austin Police Department,8888,White,Male
+NT,2023-06-08,23:57:00,Possession Of Tobacco,400 BLOCK OF 6TH STREET,,TERM,Austin Police Department,8888,White,Male
+NT,2023-06-09,0:01:00,Public Intoxication,710 TRINITY STREET,,ACT,Austin Police Department,8569,White,Male
+NT,2023-06-09,0:54:00,Failure To Identify - Refuse,313 EAST 7TH STREET,,TERM,Austin Police Department,8413,Unknown,Male
+NT,2023-06-09,2:22:00,Disorderly Conduct - Fighting,500 BLOCK TRINITY STREET,,ACT,Austin Police Department,7804,Black,Female
+NT,2023-06-09,2:22:00,Disorderly Conduct - Fighting,500 BLOCK TRINITY STREET,,ACT,Austin Police Department,7804,Black,Female
+NT,2023-06-10,0:01:00,Public Intoxication,EAST 6TH STREET AT TRINITY STREET,,TERM,Austin Police Department,9100,White,Male
+NT,2023-06-10,0:01:00,Public Intoxication,500 EAST 4TH STREET,,TERM,Austin Police Department,7780,White,Male
+TR,2023-06-10,19:34:00,Pedestrian On Roadway,226 EAST 6TH STREET,,ACT,Austin Police Department,7765,White,Male
+NT,2023-06-11,0:28:00,Disorderly Conduct - Fighting,408 EAST 6TH STREET,,ACT,Austin Police Department,9239,White,Male
+NT,2023-06-11,0:30:00,Possession Of Drug Paraphernalia,400 E 6TH ST,,TERM,Austin Police Department,8674,W WHITE,Male
+NT,2023-06-11,4:39:00,Disorderly Conduct-Indecent Exposure #,607 TRINITY STREET,,TERM,Austin Police Department,8413,White,Female
+OR,2023-06-11,21:25:00,Urinating in Public Place,501 EAST 6TH STREET,,TERM,Austin Police Department,8279,White,Female
+NT,2023-06-12,1:46:00,Misrepresentation Of Age By Minor,416 E 6TH ST,,ACT,Austin Police Department,9100,White,Female
+OR,2023-06-12,1:52:00,Urinating in Public Place,6TH STREET AT TRINITY STREET,,TERM,Austin Police Department,7796,White,Male
+NT,2023-06-12,2:05:00,Disregard Order Of A Police Officer,400 E 6TH,,ACT,Austin Police Department,9100,W WHITE,Male
+TR,2023-06-13,1:24:00,Pedestrian On Roadway,200 BLOCK WEST 6TH STREET,,TERM,Austin Police Department,9100,Black,Male
+NT,2023-06-13,3:11:00,Failure To Identify - Refuse,300 RED RIVER STREET,,ACT,Austin Police Department,7796,Black,Male
+NT,2023-06-13,3:11:00,Public Intoxication,300 RED RIVER STREET,,ACT,Austin Police Department,7796,Black,Male
+NT,2023-06-13,18:59:00,Public Intoxication,300 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,7615,Black,Male
+OR,2023-06-14,9:45:00,"Sitting, Lying Down, Sleeping Outdoors",600 BLOCK BRAZOS STREET,,ACT,Austin Police Department,3968,White,Male
+NT,2023-06-14,22:41:00,Public Intoxication,EAST 6TH STREET AT TRINITY STREET,,ACT,Austin Police Department,8425,White,Male
+TR,2023-06-14,22:41:00,Public Intoxication,EAST 6TH STREET AT TRINITY STREET,,ACT,Austin Police Department,8425,White,Male
+NT,2023-06-15,20:18:00,Public Intoxication,EAST 6TH STREET AT SABINE STREET,,ACT,Austin Police Department,9097,Black,Male
+NT,2023-06-15,21:31:00,Simple Assault By Contact,WEST 4TH STREET AT LAVACA STREET,,ACT,Austin Police Department,7615,White,Male
+NT,2023-06-15,22:44:00,Public Intoxication,613 WEST 6TH STREET,,TERM,Austin Police Department,8345,White,Female
+NT,2023-06-15,22:44:00,Simple Assault By Contact,613 WEST 6TH STREET,,TERM,Austin Police Department,8345,White,Female
+NT,2023-06-17,2:12:00,Disorderly Conduct - Fighting,400 E 6TH STREET,,TERM,Austin Police Department,8888,Black,Female
+NT,2023-06-18,5:27:00,Disorderly Conduct-Indecent Exposure #,500 BLOCK BRAZOS STREET,,ACT,Austin Police Department,6294,Black,Male
+NT,2023-06-19,2:15:00,Disregard Order Of A Police Officer,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8888,Black,Male
+NT,2023-06-19,3:57:00,Public Intoxication,8TH STREET AT RED RIVER STREET,,ACT,Austin Police Department,8530,White,Male
+NT,2023-06-19,4:42:00,Public Intoxication,SAN MARCOS STREET AT EAST 5TH STREET,,TERM,Austin Police Department,9310,White,Male
+NT,2023-06-19,4:42:00,Failure To Identify - Refuse,SAN MARCOS STREET AT EAST 5TH STREET,,TERM,Austin Police Department,9310,White,Male
+NT,2023-06-19,18:26:00,Disorderly Conduct-Indecent Exposure #,EAST 7TH STREET AT CONGRESS AVENUE,,IN,Austin Police Department,8201,White,Female
+NT,2023-06-19,20:43:00,Public Intoxication,609 CONGRESS AVENUE,,TERM,Austin Police Department,8919,Black,Male
+NT,2023-06-20,3:23:00,Public Intoxication,717 EAST 7TH STREET,,ACT,Austin Police Department,8345,Black,Male
+NT,2023-06-20,16:58:00,Misdemeanor Theft C - Less Than $100,609 CONGRESS AVENUE,,ACT,Austin Police Department,8919,White,Male
+OR,2023-06-20,23:10:00,Camping In A Public Place,SHOAL CREEK AT WEST 2ND STREET (UNDERNEATH BUTTERFLY BRIDGE),,ACT,Austin Police Department,8345,White,Male
+NT,2023-06-21,2:25:00,Failure To Identify - Refuse,200 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8345,White,Male
+NT,2023-06-21,2:25:00,Misdemeanor Theft C - Less Than $100,200 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8345,White,Male
+TR,2023-06-21,2:25:00,Pedestrian On Roadway,200 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8345,White,Male
+OR,2023-06-23,0:10:00,"Sitting, Lying Down, Sleeping Outdoors",500 SABINE ST,,ACT,Austin Police Department,8888,Black,Male
+OR,2023-06-23,0:16:00,"Sitting, Lying Down, Sleeping Outdoors",500 SABINE,,ACT,Austin Police Department,8888,Black,Male
+OR,2023-06-23,0:36:00,"Sitting, Lying Down, Sleeping Outdoors",600 E 6TH ST,,TERM,Austin Police Department,9100,Black or African American,Female
+OR,2023-06-23,0:50:00,"Sitting, Lying Down, Sleeping Outdoors",500 SABINE ST,,TERM,Austin Police Department,8888,Black or African American,Male
+NT,2023-06-23,1:15:00,Theft Of Service,406 EAST 6TH STREET,,ACT,Austin Police Department,9098,Black,Male
+NT,2023-06-23,1:32:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,6434,Black,Female
+NT,2023-06-23,1:32:00,Possession Of Tobacco,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,6434,Black,Female
+NT,2023-06-23,2:05:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,9254,White,Female
+NT,2023-06-23,16:04:00,Simple Assault By Contact,CESAR CHAVEZ STREET AND RED RIVER STREET,,ACT,Austin Police Department,8569,Other,Male
+NT,2023-06-24,1:05:00,Simple Assault By Contact,307 EAST 6TH STREET,,TERM,Austin Police Department,8401,Other,Male
+NT,2023-06-24,3:41:00,Public Intoxication,700 SAN JACINTO BOULEVARD,,ACT,Austin Police Department,8888,White,Male
+NT,2023-06-24,3:50:00,Public Intoxication,710 TRINITY STREET,,TERM,Austin Police Department,7804,Unknown,Male
+OR,2023-06-24,18:33:00,"Sitting, Lying Down, Sleeping Outdoors",EAST 6TH STREET AT BRAZOS STREET,,ACT,Austin Police Department,9098,Black,Male
+NT,2023-06-24,22:38:00,Simple Assault By Contact,200 WEST 4TH STREET,,ACT,Austin Police Department,8201,White,Male
+NT,2023-06-24,22:38:00,Simple Assault By Contact,200 WEST 4TH STREET,,ACT,Austin Police Department,8201,White,Male
+NT,2023-06-24,23:20:00,Public Intoxication,40 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,7804,Unknown,Female
+NT,2023-06-25,2:03:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8888,White,Male
+NT,2023-06-25,2:03:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8888,White,Female
+NT,2023-06-25,2:17:00,Disorderly Conduct - Fighting,400 E 6TH STREET,,TERM,Austin Police Department,8888,W WHITE,Male
+NT,2023-06-25,15:16:00,Simple Assault By Contact,WEST 6TH STREET AND CONGRESS AVENUE,,TERM,Austin Police Department,8201,Other,Male
+TR,2023-06-27,1:10:00,Pedestrian On Roadway,600 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,7804,Black,Male
+NT,2023-06-27,11:16:00,Public Intoxication,EAST 4TH STREET AND NAVASOTA STREET,,TERM,Austin Police Department,7242,White,Male
+NT,2023-06-28,0:01:00,Public Intoxication,75 RAINEY STREET,,TERM,Austin Police Department,8576,White,Male
+NT,2023-06-28,5:30:00,Possession Of Drug Paraphernalia,300 BLOCK BRAZOS STREET,,ACT,Austin Police Department,3968,Black,Male
+OR,2023-06-28,9:43:00,Camping In A Public Place,4408 GAINES RANCH LOOP,,TERM,Austin Police Department,6645,White,Female
+OR,2023-06-28,10:04:00,Camping In A Public Place,4408 GAINES RANCH LOOP,,TERM,Austin Police Department,6645,White,Female
+NT,2023-06-29,9:35:00,Possession Of Drug Paraphernalia,500 BLOCK NECHES STREET,,ACT,Austin Police Department,3968,Black,Male
+NT,2023-06-30,5:00:00,Disorderly Conduct-Indecent Exposure #,500 EAST 7TH STREET,,TERM,Austin Police Department,9100,Black,Female
+NT,2023-06-30,5:58:00,Public Intoxication,700 BLOCK TRINITY STREET,,ACT,Austin Police Department,8289,White,Male
+NT,2023-06-30,8:46:00,Possession Of Drug Paraphernalia,400 BLOCK BRAZOS STREET,,ACT,Austin Police Department,3968,White,Male
+NT,2023-06-30,20:53:00,Public Intoxication,EAST 6TH STREET AND BRAZOS STREET,,ACT,Austin Police Department,9098,Black,Male
+OR,2023-06-30,20:53:00,Urinating in Public Place,EAST 6TH STREET AND BRAZOS STREET,,TERM,Austin Police Department,9098,Black,Male
+OR,2023-06-30,22:04:00,"Sitting, Lying Down, Sleeping Outdoors",EAST 6TH STREET AND BRAZOS STREET,,ACT,Austin Police Department,9098,Black,Male
+NT,2023-07-01,14:14:00,Public Intoxication,306 EAST 6TH STREET,,TERM,Austin Police Department,7765,White,Male
+NT,2023-07-01,15:18:00,Disorderly Conduct-Indecent Exposure #,SAN ANTONIO STREET AND WEST 24TH STREET,,TERM,Austin Police Department,9785,White,Male
+NT,2023-07-02,1:22:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,9254,White,Male
+OR,2023-07-02,2:00:00,Fireworks Ordinance,600 BLOCK NECHES STREET,,TERM,Austin Police Department,9100,Black,Male
+TR,2023-07-02,2:00:00,Fireworks Ordinance,600 BLOCK NECHES STREET,,TERM,Austin Police Department,9100,Black,Female
+NT,2023-07-02,2:17:00,Disorderly Conduct-Indecent Exposure #,300 BLOCK OF E 6TH,,TERM,Austin Police Department,8888,Black,Female
+NT,2023-07-02,6:50:00,Possession Of Drug Paraphernalia,500 BLOCK BRAZOS STREET,,ACT,Austin Police Department,3968,Other,Male
+NT,2023-07-02,10:50:00,Simple Assault By Contact,901 EAST 5TH STREET,,IN,Austin Police Department,8385,Black,Female
+NT,2023-07-02,18:50:00,Possession Of Drug Paraphernalia,304 EAST 7TH STREET,,ACT,Austin Police Department,3968,Black,Male
+NT,2023-07-03,11:59:00,Simple Assault By Contact,701 EAST 11TH STREET,,TERM,Austin Police Department,8678,White,Male
+NT,2023-07-03,12:04:00,Possession Of Drug Paraphernalia,300 BLOCK BRAZOS STREET,,TERM,Austin Police Department,4951,White,Male
+NT,2023-07-03,22:21:00,Public Intoxication,901 WILLOW STREET,,ACT,Austin Police Department,9393,White,Male
+NT,2023-07-03,23:10:00,Disorderly Conduct-Indecent Exposure #,500 BLOCK TRINITY STREET,,ACT,Austin Police Department,8674,Black,Female
+NT,2023-07-04,0:33:00,Possession Of Tobacco,400 E 6TH ST,,TERM,Austin Police Department,9254,WHITE,Male
+TR,2023-07-04,9:24:00,Pedestrian On Roadway,200 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,5666,Black,Female
+NT,2023-07-04,16:58:00,Public Intoxication,306 EAST 6TH STREET,,TERM,Austin Police Department,9172,White,Male
+NT,2023-07-04,23:53:00,Disorderly Conduct-Indecent Exposure #,EAST 7TH STREET AND TRINITY STREET,,TERM,Austin Police Department,9254,Black,Female
+NT,2023-07-05,0:42:00,Public Intoxication,407 EAST 6TH STREET,,TERM,Austin Police Department,9254,White,Female
+NT,2023-07-05,1:18:00,Possession Of Tobacco,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,9252,Asian,Male
+OR,2023-07-05,1:18:00,Fireworks Ordinance,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,9252,Asian,Male
+OR,2023-07-05,2:21:00,Fireworks Ordinance,300 E 7TH ST,,TERM,Austin Police Department,6434,W WHITE,Male
+NT,2023-07-05,10:03:00,Misdemeanor Theft C - Less Than $100,51 RAINEY STREET,,ACT,Austin Police Department,8425,White,Male
+TR,2023-07-05,23:02:00,Pedestrian On Roadway,100 E 6TH ST,,ACT,Austin Police Department,6434,BLACK,Male
+NT,2023-07-06,23:13:00,Public Intoxication,621 CONGRESS AVENUE,,ACT,Austin Police Department,9252,White,Male
+OR,2023-07-07,2:28:00,Sound and Music - Permit Violation,600 W 6TH ST,,TERM,Austin Police Department,9100,BLACK,Male
+NT,2023-07-07,19:18:00,Public Intoxication,EAST CESAR CHAVEZ STREET AT MEDINA STREET,,ACT,Austin Police Department,AP9229,White,Male
+NT,2023-07-07,23:31:00,Disregard Order Of A Police Officer,600 BLOCK NECHES STREET,,TERM,Austin Police Department,4495,White,Male
+NT,2023-07-08,0:01:00,Public Intoxication,HENDERSON STREET AT WEST 9TH STREET,,TERM,Austin Police Department,7770,Asian,Male
+NT,2023-07-08,0:07:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8345,White,Male
+NT,2023-07-08,1:04:00,Public Intoxication,EAST 6TH STREET AND TRINITY STREET,,TERM,Austin Police Department,8205,Black,Male
+NT,2023-07-08,2:00:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,9122,White,Male
+NT,2023-07-08,22:48:00,Public Intoxication,501 WEST 6TH STREET,,TERM,Austin Police Department,8919,White,Male
+NT,2023-07-08,23:59:00,Public Intoxication,600 BLOCK RIO GRANDE STREET,,TERM,Austin Police Department,8569,Black,Female
+NT,2023-07-09,0:28:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,8345,Black,Female
+NT,2023-07-09,1:35:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,7804,Black,Male
+NT,2023-07-09,2:59:00,Disorderly Conduct-Indecent Exposure #,500 EAST 4TH STREET,,TERM,Austin Police Department,6434,White,Male
+TR,2023-07-09,10:24:00,Public Intoxication,210 EAST 5TH STREET,,ACT,Austin Police Department,7758,Black,Male
+TR,2023-07-10,11:59:00,Pedestrian On Roadway,RED RIVER STREET AND SABINE STREET,,TERM,Austin Police Department,8504,Black,Male
+NT,2023-07-13,0:35:00,Disorderly Conduct-Indecent Exposure #,222 EAST 6TH STREET,,TERM,Austin Police Department,6434,Black,Male
+NT,2023-07-14,1:51:00,Public Intoxication,500 BLOCK TRINITY STREET,,ACT,Austin Police Department,5660,White,Male
+NT,2023-07-14,2:48:00,Disorderly Conduct-Indecent Exposure #,715 EAST 8TH STREET,,TERM,Austin Police Department,8530,Black,Female
+NT,2023-07-15,1:04:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8205,White,Male
+NT,2023-07-15,1:34:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8888,Unknown,Male
+NT,2023-07-15,9:50:00,Public Intoxication,905 EAST 7TH STREET,,ACT,Austin Police Department,8385,Black,Male
+NT,2023-07-15,12:00:00,Public Intoxication,51 RAINEY STREET,,ACT,Austin Police Department,7758,White,Male
+NT,2023-07-16,1:05:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,7804,Unknown,Male
+NT,2023-07-16,9:25:00,Public Intoxication,EAST 5TH STREET AT NECHES STREET,,TERM,Austin Police Department,7705,Black,Male
+NT,2023-07-17,0:01:00,Public Intoxication,2404 RIO GRANDE STREET,,ACT,Austin Police Department,8350,Black,Male
+NT,2023-07-17,2:04:00,Disorderly Conduct - Fighting,500 BLOCK TRINITY STREET,,ACT,Austin Police Department,8888,Unknown,Male
+NT,2023-07-17,2:04:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8888,Unknown,Male
+OR,2023-07-17,16:57:00,"Sitting, Lying Down, Sleeping Outdoors",500 BRAZOS,,ACT,Austin Police Department,8754,Black,Male
+TR,2023-07-18,1:43:00,Pedestrian On Roadway,300 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8530,White,Male
+NT,2023-07-18,9:42:00,Disorderly Conduct-Indecent Exposure #,2222 RIO GRANDE STREET,,ACT,Austin Police Department,8247,White,Male
+NT,2023-07-18,21:27:00,Public Intoxication,2200 PEARL STREET,,ACT,Austin Police Department,9759,White,Male
+TR,2023-07-18,22:11:00,Pedestrian On Roadway,700 BLOCK TRINITY STREET,,ACT,Austin Police Department,7796,White,Male
+NT,2023-07-18,23:06:00,Possession Of Drug Paraphernalia,300 E 6TH STREET,,TERM,Austin Police Department,8888,White,Male
+NT,2023-07-19,3:14:00,Public Intoxication,600 BLOCK TRINITY STREET,,ACT,Austin Police Department,7804,White,Female
+NT,2023-07-19,3:14:00,Disorderly Conduct - Fighting,600 BLOCK TRINITY STREET,,TERM,Austin Police Department,7804,Black,Male
+NT,2023-07-19,3:14:00,Disorderly Conduct - Fighting,600 BLOCK TRINITY STREET,,TERM,Austin Police Department,7804,Black,Male
+NT,2023-07-19,16:29:00,Public Intoxication,500 BLOCK EAST CESAR CHAVEZ STREET,,ACT,Austin Police Department,8378,White,Male
+NT,2023-07-20,15:30:00,Disorderly Conduct-Indecent Exposure #,513 EAST 6TH STREET,,TERM,Austin Police Department,9224,Black,Female
+NT,2023-07-24,0:01:00,Misdemeanor Theft C - Less Than $100,604 BRAZOS STREET,,ACT,Austin Police Department,7950,White,Male
+TR,2023-07-25,20:02:00,Pedestrian Walking Against Light,EAST 6TH STREET AT BRAZOS STREET,,ACT,Austin Police Department,8201,Black,Male
+NT,2023-07-26,0:29:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,9254,White,Female
+TR,2023-07-26,2:08:00,Pedestrian Walking Against Light,EAST 6TH STREET AT TRINITY STREET,,ACT,Austin Police Department,7796,White,Male
+NT,2023-07-26,2:41:00,Public Intoxication,300 EAST 5TH STREET,,TERM,Austin Police Department,8205,White,Male
+NT,2023-07-26,22:20:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,8674,Black,Male
+OR,2023-07-26,22:43:00,"Sitting, Lying Down, Sleeping Outdoors",EAST 7TH STREET AT TRINITY STREET,,TERM,Austin Police Department,8201,Black,Female
+TR,2023-07-27,0:01:00,Pedestrian On Roadway,MARTIN LUTHER KING JR. BOULEVARD AT SAN ANTONIO STREET,,ACT,Austin Police Department,9592,Black,Male
+NT,2023-07-27,0:01:00,Failure To Identify - Refuse,MARTIN LUTHER KING JR. BOULEVARD AT SAN ANTONIO STREET,,ACT,Austin Police Department,9592,Black,Male
+NT,2023-07-27,1:00:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,7804,Black,Female
+NT,2023-07-27,1:00:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,7804,Black,Male
+NT,2023-07-28,0:05:00,Possession Of Drug Paraphernalia,405 LAVACA STREET,,ACT,Austin Police Department,7796,Black,Male
+NT,2023-07-28,2:16:00,Public Intoxication,EAST 6TH STREET AT TRINITY STREET,,TERM,Austin Police Department,7804,Black,Female
+NT,2023-07-28,18:24:00,Public Intoxication,48 EAST AVENUE,,ACT,Austin Police Department,8548,Black,Male
+TR,2023-07-28,18:24:00,Public Intoxication,48 EAST  AVENUE,,ACT,Austin Police Department,8548,Black,Male
+OR,2023-07-28,23:21:00,Health - No Food Permit-Mobile Vendor,700 E 6TH ST,,TERM,Austin Police Department,7796,,Female
+NT,2023-07-29,0:38:00,Disorderly Conduct - Fighting,400 BLOCK TRINITY STREET,,ACT,Austin Police Department,8498,Black,Female
+NT,2023-07-29,2:50:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,7804,Unknown,Male
+NT,2023-07-29,22:47:00,Public Intoxication,CONGRESS AVENUE AT WEST 4TH STREET,,ACT,Austin Police Department,7796,Black,Male
+NT,2023-07-30,1:23:00,Disorderly Conduct - Fighting,408 EAST 6TH STREET,,ACT,Austin Police Department,8678,Black,Male
+NT,2023-07-30,1:23:00,Disorderly Conduct - Fighting,408 EAST 6TH STREET,,TERM,Austin Police Department,8678,Black,Male
+NT,2023-07-30,2:05:00,Disorderly Conduct - Fighting,300 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,8674,White,Male
+NT,2023-07-30,3:36:00,Public Intoxication,715 EAST 8TH STREET,,ACT,Austin Police Department,8576,Black,Female
+NT,2023-07-31,1:09:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,9098,White,Male
+OR,2023-07-31,2:30:00,Pedestrian In Roadway/City Ordinance,400 BLOCK EAST 6TH STREET,,IN,Austin Police Department,9252,Black,Male
+TR,2023-08-01,2:18:00,Pedestrian On Roadway,400 BLOCK EAST 7TH STREET,,ACT,Austin Police Department,8205,Black,Male
+NT,2023-08-01,10:14:00,Criminal Mischief-Destruction Of Prop,715 EAST 8TH STREET,,TERM,Austin Police Department,8953,Unknown,Male
+TR,2023-08-01,12:27:00,Pedestrian On Roadway,300 BLOCK BOWIE STREET,,TERM,Austin Police Department,7796,Other,Male
+NT,2023-08-01,12:27:00,Possession Of Drug Paraphernalia,300 BLOCK BOWIE STREET,,ACT,Austin Police Department,7796,Other,Male
+OR,2023-08-01,23:42:00,Pedestrian In Roadway/City Ordinance,500 BLOCK WEST 4TH STREET,,TERM,Austin Police Department,8678,White,Male
+NT,2023-08-01,23:42:00,Public Intoxication,500 BLOCK WEST 4TH STREET,,ACT,Austin Police Department,8678,White,Male
+NT,2023-08-04,0:01:00,Public Intoxication,EAST 6TH STREET AT TRINITY STREET,,ACT,Austin Police Department,8400,Other,Female
+NT,2023-08-04,1:06:00,Public Intoxication,EAST 6TH STREET AT NECHES STREET,,TERM,Austin Police Department,9245,White,Male
+NT,2023-08-04,2:05:00,Public Intoxication,EAST 6TH STREET AT TRINITY STREET,,ACT,Austin Police Department,7796,Unknown,Male
+NT,2023-08-04,2:18:00,Public Intoxication,600 BLOCK RIO GRANDE STREET,,TERM,Austin Police Department,9122,White,Male
+NT,2023-08-04,2:18:00,Public Intoxication,600 BLOCK RIO GRANDE STREET,,TERM,Austin Police Department,9122,White,Female
+NT,2023-08-04,2:18:00,Disregard Order Of A Police Officer,7TH STREET AND WEST AVENUE,,TERM,Austin Police Department,9122,Black,Male
+NT,2023-08-04,17:15:00,Public Intoxication,2606 GUADALUPE STREET,,ACT,Austin Police Department,9364,White,Female
+NT,2023-08-05,0:01:00,Public Intoxication,500 BLOCK TRINITY STREET,,TERM,Austin Police Department,8400,Asian,Female
+NT,2023-08-05,0:08:00,Public Intoxication,EAST 6TH STREET AND TRINITY STREET,,TERM,Austin Police Department,7796,Other,Male
+NT,2023-08-05,18:04:00,Public Intoxication,600 BLOCK SAN JACINTO BOULEVARD,,ACT,Austin Police Department,8201,White,Female
+TR,2023-08-05,18:34:00,Use of a Sidewalk,6TH STREET AND CONGRESS AVENUE,,ACT,Austin Police Department,8378,White,Male
+NT,2023-08-05,22:35:00,Disorderly Conduct-Indecent Exposure #,300 BLOCK EAST 5TH STREET,,TERM,Austin Police Department,8888,Black,Female
+OR,2023-08-05,22:52:00,Camping In A Public Place,422  GUADALUPE STREET,,ACT,Austin Police Department,8201,White,Male
+NT,2023-08-05,22:52:00,Failure To Identify - Refuse,422  GUADALUPE STREET,,IN,Austin Police Department,8201,White,Male
+NT,2023-08-06,2:13:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,7765,White,Female
+NT,2023-08-06,2:13:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,7765,White,Female
+TR,2023-08-06,2:40:00,Use of a Sidewalk,EAST 6TH STREET AT TRINITY STREET,,IN,Austin Police Department,9245,White,Male
+NT,2023-08-06,4:24:00,Public Intoxication,2419 RIO GRANDE STREET,,ACT,Austin Police Department,9424,White,Male
+NT,2023-08-06,23:33:00,Disorderly Conduct-Indecent Exposure #,6TH STREET AT CONGRESS AVENUE,,IN,Austin Police Department,8888,White,Male
+NT,2023-08-06,23:53:00,Public Intoxication,211 WEST 4TH STREET,,TERM,Austin Police Department,7804,Other,Male
+NT,2023-08-06,23:59:00,Public Intoxication,501 EAST 6TH STREET,,IN,Austin Police Department,7884,Other,Male
+NT,2023-08-07,11:33:00,Theft C - Less Than $100,301 BRAZOS STREET,,ACT,Austin Police Department,5666,W WHITE,Male
+NT,2023-08-07,17:00:00,Public Intoxication,715 GRAHAM PLACE,,ACT,Austin Police Department,9592,White,Male
+NT,2023-08-08,21:00:00,Public Intoxication,400 BLOCK LAVACA STREET,,TERM,Austin Police Department,7615,White,Female
+NT,2023-08-09,1:25:00,Disorderly Conduct - Fighting,407 EAST 6TH STREET,,TERM,Austin Police Department,9172,Unknown,Male
+NT,2023-08-09,21:40:00,Disorderly Conduct-Indecent Exposure #,EAST 7TH STREET AT RED RIVER STREET,,TERM,Austin Police Department,8674,Black,Female
+NT,2023-08-09,23:57:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,7804,Unknown,Male
+OR,2023-08-11,1:02:00,Urinating in Public Place,500 TRINITY ST,,IN,Austin Police Department,8888,White,Male
+NT,2023-08-11,23:03:00,Disorderly Conduct-Indecent Exposure #,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,7765,Black,Female
+OR,2023-08-12,1:01:00,Sound and Music - Permit Violation,419 EAST 6TH STREET,,TERM,Austin Police Department,7796,,Male
+OR,2023-08-12,1:35:00,Noise Ordinance,208 E 6TH ST,,TERM,Austin Police Department,7796,Black,Male
+NT,2023-08-12,1:43:00,Disorderly Conduct - Abuse,400 BLOCK EAST 6TH STREET,,IN,Austin Police Department,8674,Unknown,Male
+NT,2023-08-12,2:25:00,Disorderly Conduct - Fighting,600 TRINITY ST,,ACT,Austin Police Department,7245,White,Male
+NT,2023-08-12,2:43:00,Disorderly Conduct-Gesture P.C. 42 01,717 EAST 7TH STREET,,ACT,Austin Police Department,8674,Black,Male
+NT,2023-08-12,2:43:00,Disorderly Conduct-Gesture P.C. 42 01,717 EAST 7TH STREET,,ACT,Austin Police Department,8674,Black,Male
+NT,2023-08-12,12:49:00,Disregard Order Of A Police Officer,6TH STREET AT NECHES STREET,,ACT,Austin Police Department,8017,White,Male
+NT,2023-08-13,0:55:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,9254,White,Male
+NT,2023-08-13,3:39:00,Public Intoxication,617 EAST 7TH STREET,,TERM,Austin Police Department,7804,,Male
+NT,2023-08-13,3:41:00,Public Intoxication,617 EAST 7TH STREET,,IN,Austin Police Department,9098,Black,Male
+NT,2023-08-13,12:34:00,Public Intoxication,501 EAST 6TH STREET,,TERM,Austin Police Department,7884,Unknown,Male
+NT,2023-08-13,21:20:00,Disorderly Conduct-Indecent Exposure #,22ND STREET AT RIO GRANDE STREET,,TERM,Austin Police Department,9364,Black,Male
+NT,2023-08-14,12:53:00,Public Intoxication,90 BLOCK RAINEY STREET,,ACT,Austin Police Department,8354,White,Male
+NT,2023-08-15,22:30:00,Disorderly Conduct - Fighting,300 BLOCK EAST 6TH STREET,,DELC,Austin Police Department,8345,White,Male
+TR,2023-08-15,22:30:00,Disorderly Conduct-Indecent Exposure #,300 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,8345,White,Male
+TR,2023-08-16,1:03:00,Use of a Sidewalk,1500 RED RIVER STREET,,TERM,Austin Police Department,7765,White,Male
+NT,2023-08-16,1:51:00,Minor In Possession Of Alcohol,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,7804,Unknown,Male
+NT,2023-08-16,1:51:00,Minor Consuming Alcohol,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,7804,Unknown,Male
+OR,2023-08-16,2:05:00,Littering,400 E 6TH STREET NORTH ALLEY,,TERM,Austin Police Department,8888,White,Male
+NT,2023-08-16,2:05:00,Possession Of Drug Paraphernalia,400 E 6TH STREET NORTH ALLEY,,ACT,Austin Police Department,8888,White,Male
+NT,2023-08-16,23:55:00,Public Intoxication,503 COLORADO STREET,,TERM,Austin Police Department,8422,White,Female
+NT,2023-08-17,23:15:00,Disorderly Conduct-Indecent Exposure #,710 WEST CESAR CHAVEZ,,ACT,Austin Police Department,8345,White,Female
+NT,2023-08-18,0:43:00,Failure To Identify - Refuse,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8888,Black,Male
+OR,2023-08-18,0:43:00,Urinating in Public Place,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8888,Black,Male
+NT,2023-08-18,0:43:00,Disorderly Conduct-Indecent Exposure #,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8888,Black,Male
+NT,2023-08-18,23:22:00,Disorderly Conduct-Indecent Exposure #,500 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8674,Black,Male
+NT,2023-08-19,0:01:00,Public Intoxication,88 RAINEY STREET,,TERM,Austin Police Department,8107,Black,Male
+NT,2023-08-20,1:20:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,9254,White,Female
+NT,2023-08-20,2:00:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,9122,White,Female
+NT,2023-08-20,2:00:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,9122,White,Female
+NT,2023-08-20,2:01:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8674,Black,Male
+NT,2023-08-20,2:38:00,Disregard Order Of A Police Officer,400 E 6TH,,TERM,Austin Police Department,8422,Black,Male
+OR,2023-08-20,12:00:00,Noise - Over the Permitted DB Limit,306 E 6TH ST,,TERM,Austin Police Department,7796,,Male
+NT,2023-08-20,23:05:00,Public Intoxication,304 EAST CESAR CHAVEZ,,ACT,Austin Police Department,9245,White,Male
+OR,2023-08-21,0:53:00,Park Curfew Violation,5TH STREET AT GUADALUPE STREET,,ACT,Austin Police Department,5159,White,Female
+NT,2023-08-21,1:46:00,Public Intoxication,200 WEST 4TH STREET,,TERM,Austin Police Department,7245,Unknown,Male
+OR,2023-08-23,2:18:00,"Sitting, Lying Down, Sleeping Outdoors",300 BOWIE STREET,,TERM,Austin Police Department,7796,White,Female
+NT,2023-08-23,2:18:00,Failure To Identify - Refuse,300 BOWIE STREET,,TERM,Austin Police Department,7796,White,Female
+NT,2023-08-25,19:12:00,Simple Assault By Contact,2300 BLOCK GUADALUPE STREET,,IN,Austin Police Department,8201,Black,Male
+NT,2023-08-25,23:55:00,Disorderly Conduct-Indecent Exposure #,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8530,White,Female
+NT,2023-08-26,1:25:00,Simple Assault By Contact,300 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,8888,White,Female
+NT,2023-08-26,1:43:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,9254,Black,Male
+NT,2023-08-27,1:23:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8498,White,Male
+NT,2023-08-27,1:30:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,IN,Austin Police Department,7804,Unknown,Male
+NT,2023-08-27,2:22:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,9254,White,Female
+NT,2023-08-27,2:22:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,9254,White,Female
+NT,2023-08-27,10:00:00,Misdemeanor Theft C - Less Than $100,500 CONGRESS AVENUE,,ACT,Austin Police Department,6781,White,Male
+OR,2023-08-28,22:41:00,Park Curfew Violation,422 GUADALUPE ST,,TERM,Austin Police Department,8888,Black,Male
+NT,2023-08-29,3:00:00,Criminal Mischief-Destruction Of Prop,SECOND STREET AT GUADALUPE STREET,,ACT,Austin Police Department,3968,White,Male
+NT,2023-08-29,17:10:00,Public Intoxication,WEST 8TH STREET AT GUADALUPE STREET,,ACT,Austin Police Department,7765,White,Male
+NT,2023-08-31,1:14:00,Public Intoxication,401 EAST 6TH STREET,,ACT,Austin Police Department,7804,Unknown,Male
+TR,2023-08-31,2:19:00,Pedestrian Crossing Midblock,EAST 7TH STREET AT RED RIVER STREET,,IN,Austin Police Department,8674,Black,Male
+NT,2023-08-31,2:19:00,Failure To Identify - Refuse,EAST 7TH STREET AT RED RIVER STREET,,IN,Austin Police Department,8674,Black,Male
+NT,2023-08-31,22:00:00,Public Intoxication,707 EAST CESAR CHAVEZ STREET,,ACT,Austin Police Department,7804,White,Female
+NT,2023-08-31,22:00:00,Failure To Identify - Refuse,707 EAST CESAR CHAVEZ STREET,,ACT,Austin Police Department,7804,White,Female
+NT,2023-08-31,22:00:00,Theft Of Service,707 EAST CESAR CHAVEZ STREET,,ACT,Austin Police Department,7804,White,Female
+NT,2023-09-01,1:27:00,Public Intoxication,707 WEST 7TH STREET,,ACT,Austin Police Department,9245,Black,Male
+NT,2023-09-01,1:30:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8345,White,Male
+TR,2023-09-01,1:30:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8345,White,Male
+NT,2023-09-01,8:22:00,Misdemeanor Theft C - Less Than $100,609 CONGRESS AVENUE,,IN,Austin Police Department,8413,White,Male
+NT,2023-09-02,2:10:00,Disorderly Conduct - Fighting,600 BLOCK TRINITY STREET,,ACT,Austin Police Department,7804,White,Female
+TR,2023-09-02,2:10:00,Disorderly Conduct - Fighting,600 BLOCK TRINITY STREET,,TERM,Austin Police Department,7804,White,Female
+NT,2023-09-02,2:32:00,Disorderly Conduct - Fighting,EAST 7TH STREET AT TRINITY STREET,,ACT,Austin Police Department,7804,White,Female
+NT,2023-09-02,2:32:00,Disorderly Conduct - Fighting,EAST 7TH STREET AT TRINITY STREET,,ACT,Austin Police Department,7804,White,Male
+NT,2023-09-02,21:30:00,Public Intoxication,EAST 6TH STREET AT TRINITY STREET,,ACT,Austin Police Department,8678,Unknown,Male
+NT,2023-09-03,1:08:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,8345,Black,Male
+TR,2023-09-03,1:45:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,7804,Black,Female
+NT,2023-09-03,1:45:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,7804,White,Female
+NT,2023-09-03,23:56:00,Public Intoxication,407 EAST 6TH STREET,,ACT,Austin Police Department,8674,White,Male
+NT,2023-09-04,0:55:00,Disorderly Conduct - Fighting,EAST 6TH STREET AT TRINITY STREET,,ACT,Austin Police Department,8345,White,Female
+TR,2023-09-04,0:55:00,Disorderly Conduct - Fighting,EAST 6TH STREET AT TRINITY STREET,,TERM,Austin Police Department,8345,White,Female
+NT,2023-09-05,2:09:00,Public Intoxication,300 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,8888,White,Female
+NT,2023-09-07,0:09:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,9122,Native Hawaiian or Other Pacific Islander,Male
+NT,2023-09-07,0:18:00,Disorderly Conduct - Fighting,400 EAST 6TH STREET,,TERM,Austin Police Department,9254,White,Female
+NT,2023-09-08,0:01:00,Public Intoxication,300 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,7615,Black,Male
+NT,2023-09-09,2:00:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,8678,Black,Male
+NT,2023-09-09,2:32:00,Disorderly Conduct - Fighting,EAST 7TH STREET AT TRINITY STREET,,TERM,Austin Police Department,7804,White,Male
+NT,2023-09-09,2:53:00,Public Intoxication,600 BLOCK SABINE STREET,,ACT,Austin Police Department,8674,White,Male
+NT,2023-09-09,11:34:00,Public Intoxication,1213 SABINE STREET,,ACT,Austin Police Department,9735,Unknown,Male
+NT,2023-09-09,11:34:00,Possession Of Drug Paraphernalia,1213 SABINE STREET,,ACT,Austin Police Department,9735,Unknown,Male
+NT,2023-09-10,0:54:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,IN,Austin Police Department,8576,Black,Male
+OR,2023-09-11,0:40:00,Noise - Outside of Permitted Time,620 W 6TH ST,,TERM,Austin Police Department,7796,Black or African American,Male
+OR,2023-09-12,9:40:00,Camping In A Public Place,700 BLOCK WALLER CREEK HIKE AND BIKE TRAIL,,IN,Austin Police Department,5342,White,Female
+NT,2023-09-12,16:24:00,Public Intoxication,1200 BLOCK GUADALUPE STREET,,ACT,Austin Police Department,9592,White,Male
+NT,2023-09-13,0:25:00,Public Intoxication,600 BLOCK RIO GRANDE STREET,,TERM,Austin Police Department,5660,White,Male
+NT,2023-09-13,0:50:00,Public Intoxication,418 EAST 6TH STREET,,TERM,Austin Police Department,9122,White,Male
+NT,2023-09-13,1:17:00,Simple Assault By Contact,501 WEST 6TH STREET (MAYFAIR BAR),,TERM,Austin Police Department,8888,Unknown,Female
+TR,2023-09-13,1:17:00,Use of a Sidewalk,501 WEST 6TH STREET (MAYFAIR BAR),,TERM,Austin Police Department,8888,Unknown,Female
+NT,2023-09-14,0:34:00,Disorderly Conduct-Indecent Exposure #,EAST 7TH STREET AT RED RIVER STREET,,IN,Austin Police Department,9254,Black,Male
+NT,2023-09-14,2:25:00,Public Intoxication,WEST 6TH STREET AT RIO GRANDE STREET,,TERM,Austin Police Department,8354,Unknown,Male
+NT,2023-09-15,18:43:00,Public Intoxication,500 EAST 7TH STREET,,ACT,Austin Police Department,8570,Black,Male
+NT,2023-09-16,1:43:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,9402,Unknown,Male
+NT,2023-09-16,1:54:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,7216,Unknown,Male
+NT,2023-09-16,4:26:00,Public Intoxication,EAST 6TH STREET AT BRAZOS STREET,,TERM,Austin Police Department,9402,White,Male
+NT,2023-09-16,15:00:00,Possession Of Drug Paraphernalia,501 EAST 6TH STREET,,TERM,Austin Police Department,8576,White,Male
+TR,2023-09-17,0:13:00,Disorderly Conduct - Fighting,EAST 6TH STREET AT TRINITY STREET,,ACT,Austin Police Department,8674,White,Female
+NT,2023-09-17,0:13:00,Disorderly Conduct - Fighting,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,8674,White,Female
+NT,2023-09-17,0:26:00,Public Intoxication,EAST 6TH STREET AT SAN JACINTO STREET,,ACT,Austin Police Department,8785,White,Male
+NT,2023-09-17,1:25:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,9402,Unknown,Male
+NT,2023-09-17,1:51:00,Public Intoxication,WEST 24TH STREET AT SAN GABRIEL STREET,,TERM,Austin Police Department,9632,White,Male
+NT,2023-09-17,2:05:00,Disorderly Conduct - Fighting,408 EAST 6TH STREET,,TERM,Austin Police Department,8674,Black,Female
+NT,2023-09-17,5:55:00,Disorderly Conduct-Indecent Exposure #,710 EAST 3RD STREET,,ACT,Austin Police Department,6136,Black,Male
+NT,2023-09-17,10:18:00,Disorderly Conduct-Indecent Exposure #,400 BLOCK CONGRESS AVENUE,,ACT,Austin Police Department,8413,White,Male
+NT,2023-09-19,17:08:00,Disorderly Conduct-Indecent Exposure #,90 COMAL STREET,,IN,Austin Police Department,9210,Black,Female
+TR,2023-09-20,1:56:00,Pedestrian Crossing Midblock,400 E 6TH ST,,ACT,Austin Police Department,7796,Hispanic or Latino,Male
+NT,2023-09-20,15:08:00,Public Intoxication,422 GUADALUPE STREET,,ACT,Austin Police Department,7765,White,Male
+NT,2023-09-20,16:22:00,Public Intoxication,500 WEST 2ND STREET,,TERM,Austin Police Department,8287,White,Male
+TR,2023-09-20,22:14:00,Pedestrian Walking Against Light,WEST 3RD STREET AND NUECES STREET,,ACT,Austin Police Department,7796,White,Male
+TR,2023-09-20,23:46:00,Pedestrian Walking Against Light,200 CONGRESS ST,,ACT,Austin Police Department,9254,Black,Male
+OR,2023-09-21,1:32:00,Noise - Over the Permitted DB Limit,413 E 6TH ST,,TERM,Austin Police Department,7796,,Male
+NT,2023-09-21,8:20:00,Theft C - Less Than $100,211 E 3RD ST,,TERM,Austin Police Department,7245,Black,Male
+TR,2023-09-21,8:30:00,Use of a Sidewalk,500 BLOCK CONGRESS AVENUE,,IN,Austin Police Department,7758,White,Female
+NT,2023-09-21,21:39:00,Public Intoxication,500 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,7615,Black,Male
+NT,2023-09-22,1:49:00,Simple Assault By Threat-Non Family,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,8345,Black,Male
+NT,2023-09-23,2:05:00,Public Intoxication,400 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,7765,Black,Female
+NT,2023-09-23,2:05:00,Failure To Identify - Refuse,400 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,7765,Black,Female
+TR,2023-09-23,2:57:00,Pedestrian Walking Against Light,EAST 8TH STREET AT RED RIVER STREET,,TERM,Austin Police Department,8345,Black,Male
+NT,2023-09-23,23:30:00,Public Intoxication,300 BLOCK EAST 8TH STREET,,TERM,Austin Police Department,7615,White,Male
+NT,2023-09-24,0:01:00,Public Intoxication,EAST 12TH STREET AT RED RIVER STREET,,IN,Austin Police Department,8570,Black,Male
+NT,2023-09-24,2:34:00,Public Intoxication,EAST 6TH STREET AT TRINITY STREET,,IN,Austin Police Department,9402,Black,Male
+OR,2023-09-24,22:04:00,"Sitting, Lying Down, Sleeping Outdoors",500 SABINE,,TERM,Austin Police Department,9100,Black,Male
+NT,2023-09-26,4:25:00,Minor Consuming Alcohol,811 TRINITY STREET,,ACT,Austin Police Department,7804,Unknown,Male
+OR,2023-09-27,8:30:00,Camping In A Public Place,NORTH IH35 AT 4TH STREET,,ACT,Austin Police Department,6445,Black,Male
+TR,2023-09-28,2:45:00,Use of a Sidewalk,100 BLOCK WEST 6TH STREET,,TERM,Austin Police Department,7804,Unknown,Male
+NT,2023-09-29,4:08:00,Public Intoxication,EAST 7TH STREET AT RED RIVER STREET,,TERM,Austin Police Department,8678,Black,Male
+TR,2023-09-29,21:19:00,Use of a Sidewalk,WEST 2ND STREET AT NUECES STREET,,ACT,Austin Police Department,7765,Black,Male
+NT,2023-09-29,22:40:00,Disorderly Conduct-Indecent Exposure #,419 EAST 6TH STREET,,TERM,Austin Police Department,9098,Black,Female
+NT,2023-09-30,1:00:00,Public Intoxication,302 EAST 6TH STREET,,TERM,Austin Police Department,7780,White,Male
+OR,2023-09-30,2:03:00,Littering,300 BLOCK EAST 6TH STREET,,TERM,Austin Police Department,8674,White,Male
+NT,2023-09-30,2:20:00,Disorderly Conduct - Fighting,EAST 7TH STREET AND TRINITY STREET,,IN,Austin Police Department,7804,Black,Female
+NT,2023-09-30,2:20:00,Disorderly Conduct - Fighting,EAST 7TH STREET AND TRINITY STREET,,IN,Austin Police Department,7804,Black,Female
+NT,2023-09-30,2:38:00,Public Intoxication,W. 24TH STREET AND SAN GABRIEL STREET,,TERM,Austin Police Department,9424,White,Male
+NT,2023-09-30,2:38:00,Public Intoxication,WEST 24TH STREET AND SAN GABRIEL STREET,,TERM,Austin Police Department,9424,White,Male
+NT,2023-09-30,4:46:00,Public Intoxication,200 BLOCK EAST 6TH STREET,,ACT,Austin Police Department,7804,Unknown,Male
+NT,2023-09-30,21:55:00,Public Intoxication,EAST 6TH STREET AT TRINITY STREET,,TERM,Austin Police Department,9254,White,Male
